@@ -1,0 +1,12 @@
+{"event":"WORKER_START","mode":"overlimit","monotonic_ns":137731421000000}
+{"allocated_mib":8,"event":"ALLOCATED_BLOCK","index":1,"monotonic_ns":137731421000000}
+{"allocated_mib":16,"event":"ALLOCATED_BLOCK","index":2,"monotonic_ns":137731453000000}
+{"allocated_mib":24,"event":"ALLOCATED_BLOCK","index":3,"monotonic_ns":137731484000000}
+{"allocated_mib":32,"event":"ALLOCATED_BLOCK","index":4,"monotonic_ns":137731531000000}
+{"allocated_mib":40,"event":"ALLOCATED_BLOCK","index":5,"monotonic_ns":137731562000000}
+{"allocated_mib":48,"event":"ALLOCATED_BLOCK","index":6,"monotonic_ns":137731593000000}
+{"allocated_mib":56,"event":"ALLOCATED_BLOCK","index":7,"monotonic_ns":137731625000000}
+{"allocated_mib":64,"event":"ALLOCATED_BLOCK","index":8,"monotonic_ns":137731671000000}
+{"allocated_mib":72,"event":"ALLOCATED_BLOCK","index":9,"monotonic_ns":137731703000000}
+{"allocated_mib":80,"event":"ALLOCATED_BLOCK","index":10,"monotonic_ns":137731750000000}
+{"event":"MEMORY_ERROR_OBSERVED","monotonic_ns":137731781000000}

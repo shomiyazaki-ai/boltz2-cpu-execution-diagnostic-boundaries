@@ -1,0 +1,3 @@
+{"event":"WORKER_START","mode":"normal","monotonic_ns":137320437000000}
+{"event":"NORMAL_COMPLETE","monotonic_ns":137320453000000,"nbytes":4194304}
+{"event":"WORKER_EXCEPTION","exception":"SystemExit","monotonic_ns":137320453000000}

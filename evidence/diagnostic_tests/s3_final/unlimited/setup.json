@@ -1,0 +1,12 @@
+{
+  "case": "unlimited",
+  "cap_bytes": null,
+  "readback": {
+    "kill_on_close": true,
+    "job_memory_enabled": false,
+    "job_memory_limit_bytes": null,
+    "peak_job_memory_used_bytes": 503808
+  },
+  "membership_confirmed": true,
+  "assignment_before_resume": true
+}

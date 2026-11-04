@@ -1,0 +1,56 @@
+{
+  "version": "C01_REAL_SUPERVISOR_v1",
+  "utc": "2026-11-02T01:15:38.708419+00:00",
+  "reason": "MEMORY_STOP",
+  "stage": "PREDICT",
+  "approved_gate_b": true,
+  "gate_b": {
+    "available_gib": 5.55482,
+    "commit_headroom_gib": 5.25733
+  },
+  "initial": {
+    "available_gib": 10.0144,
+    "commit_headroom_gib": 10.85878
+  },
+  "returncode": 15,
+  "observed_worker_pid": true,
+  "monitor_samples": 305,
+  "events": [
+    {
+      "event": "INPUT_INTEGRITY_PASS",
+      "file_count": 6
+    },
+    {
+      "checkpoint_loaded": false,
+      "event": "CHUNK_PATCH_APPLIED",
+      "outer_product_projected_chunk": 4,
+      "prediction_performed": false,
+      "status": "APPLIED_IN_MEMORY",
+      "target": "boltz.model.modules.trunkv2.MSAModule.forward",
+      "token_count_only": 263,
+      "transition_hidden_chunk": 32,
+      "upstream_git_blob_sha1": "ebd7a2ec6160307076b226b0d7d3ef1bfb376c29"
+    },
+    {
+      "event": "MODEL_LOADED_WAITING_FOR_GATE_B",
+      "precision": "32-true",
+      "prediction_performed": false
+    },
+    {
+      "event": "GATE_B_APPROVED"
+    },
+    {
+      "event": "INFERENCE_START",
+      "precision": "32-true",
+      "recycling_steps": 3,
+      "sampling_steps": 200,
+      "seed": 101
+    }
+  ],
+  "output_qc_status": "NOT_RUN",
+  "prediction_success": false,
+  "memory_guard_os_hard_limit": false,
+  "job_object_kill_on_close": true,
+  "partial_results_not_success": true,
+  "event_protocol_validation": "VALID"
+}

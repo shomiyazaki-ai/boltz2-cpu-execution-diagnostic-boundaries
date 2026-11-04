@@ -1,0 +1,11 @@
+# Verification routes and limits
+
+V0 reads the README, two figures, three major tables and curated evidence. V1 runs `python verification/verify_record.py` (or `py -3 verification/verify_record.py`) from a clean extracted candidate with Python 3.10+ and only the standard library. The script resolves its root from its own location, prints JSON, returns 0 only when its checks pass, and does not write to the repository. No network, pip packages, large arrays, model, checkpoint, subprocess or Job API is used.
+
+V1 checks exact checksum coverage (excluding SHA256SUMS.txt itself, `.git/`, `__pycache__/` and `.pyc`), evidence-manifest public hashes, claim links, sample projection/count/order/tree sums, summary endpoints, recorded configs and statuses, 16 isolated case summaries, six Step 4 saved flags/three branch probes, synthetic trace contract, final/old S3 distinctions, cap readbacks/case events, and B1 STOP. Missing or extra files and mismatched bytes cause failure. Do not regenerate the checksums to conceal a failed comparison.
+
+V1 **does not recompute** historical Windows dynamics, allclose from tensors, RNG state equality, actual model completion, original MSA sequences or checkpoint identity from bytes. “No final output” is inspected as a historical result, not established by a fresh census of the original PC. Private source hashes are identifiers; only public hashes can be directly recomputed from this distribution. NOT RUN is never converted into PASS.
+
+V2 inspects source identities, historical settings, logs and corrections. This is not a successful end-to-end reproduction recipe. No launcher, unsafe supervisor or small-worker stress script is shipped. Research STOP remains in force.
+
+Optional figure rebuild: in a separate working copy with matplotlib 3.10.8 (production version; other versions may render differently), run `python figures/make_figures.py --output-dir /absolute/path/to/figure-output`. Use a different, explicit writable directory. Figure source loads only shipped CSV/JSON; it writes figure files there and never runs the study. Rendering may depend on fonts/versions; numerical agreement is distinct from PNG/SVG byte identity. The shipped verifier checks figure-state data and existing figure-file hashes, not an independent pixel-level recreation.

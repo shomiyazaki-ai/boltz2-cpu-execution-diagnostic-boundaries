@@ -1,0 +1,42 @@
+{
+  "source_name": "c01_real_supervisor.py",
+  "lines": [
+    {
+      "line": 61,
+      "text": "   while True:"
+    },
+    {
+      "line": 62,
+      "text": "    now=time.monotonic();s=snapshot();tree=observe(p.pid,ct);samples.append({'elapsed_s':round(now-start,3),'stage':stage,**s,'tree':tree})"
+    },
+    {
+      "line": 63,
+      "text": "    ev=read_events(output/'worker_stdout.jsonl');names=[x['event'] for x in ev];last_events=ev"
+    },
+    {
+      "line": 66,
+      "text": "    pid_seen|=bool(worker_pids & seen)"
+    },
+    {
+      "line": 67,
+      "text": "    if s['available_gib']<2 or s['commit_headroom_gib']<2:reason='MEMORY_STOP';break"
+    },
+    {
+      "line": 68,
+      "text": "    if tree.get('identity_error') or tree.get('unreadable_count',0)>0:reason='PID_TRACKING_STOP';break"
+    },
+    {
+      "line": 74,
+      "text": "     if ready_seen is None:ready_seen=now;load_complete_at=now"
+    },
+    {
+      "line": 75,
+      "text": "     gate=snapshot();decision='APPROVE' if min(gate.values())>=4 else 'DENY'"
+    },
+    {
+      "line": 76,
+      "text": "     atomic(control,{'decision':decision,'nonce':nonce,'gate_b':gate,'timestamp_utc':datetime.now(timezone.utc).isoformat()})"
+    }
+  ],
+  "scope": "Static inspection only; not executable test code; upstream implementations are referenced, not copied."
+}

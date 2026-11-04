@@ -1,0 +1,66 @@
+{
+  "source_name": "c01_step3.py",
+  "lines": [
+    {
+      "line": 51,
+      "text": "  if args.operator=='transition':"
+    },
+    {
+      "line": 52,
+      "text": "   module=Transition(dim=64,hidden=256).eval();cs=32 if args.mode=='chunk' else None"
+    },
+    {
+      "line": 53,
+      "text": "   result=module(x,chunk_size=cs)"
+    },
+    {
+      "line": 54,
+      "text": "  else:"
+    },
+    {
+      "line": 55,
+      "text": "   module=OuterProductMean(c_in=64,c_hidden=32,c_out=128).eval();cs=4 if args.mode=='chunk' else None"
+    },
+    {
+      "line": 56,
+      "text": "   mask=torch.ones((1,args.seqs,args.tokens),dtype=torch.float32)"
+    },
+    {
+      "line": 60,
+      "text": "  del result,x"
+    },
+    {
+      "line": 61,
+      "text": " rec={'status':'COMPLETE','operator':args.operator,'mode':args.mode,'seqs':args.seqs,'tokens':args.tokens,'elapsed_s':round(time.perf_counter()-start,4),'check':check,'rss_end_mib':round(p.memory_info().rss/1024**2,3),'upstream':official,'checkpoint_loaded':False,'predict_called':False}"
+    },
+    {
+      "line": 62,
+      "text": " pathlib.Path(args.result).write_text(json.dumps(rec,indent=2),encoding='utf-8')"
+    },
+    {
+      "line": 78,
+      "text": " if out.exists():raise RuntimeError('OUTPUT_EXISTS_REFUSE_OVERWRITE:'+str(out))"
+    },
+    {
+      "line": 79,
+      "text": " # Do not initiate any allocations without >= 8 GiB for BOTH headrooms."
+    },
+    {
+      "line": 80,
+      "text": " m=memory();print('PREFLIGHT',json.dumps(m),flush=True)"
+    },
+    {
+      "line": 98,
+      "text": "    p,job=spawn_guarded(cmd,stdout=log,stderr=subprocess.STDOUT,stdin=subprocess.DEVNULL,cwd=str(pathlib.Path(__file__).parent))"
+    },
+    {
+      "line": 99,
+      "text": "    proc=psutil.Process(p.pid);t0=time.monotonic();min_avail=999.;min_commit=999.;peak_rss=0;peak_private=0;stopped=None"
+    },
+    {
+      "line": 100,
+      "text": "    while p.poll() is None:"
+    }
+  ],
+  "scope": "Static inspection only; not executable test code; upstream implementations are referenced, not copied."
+}

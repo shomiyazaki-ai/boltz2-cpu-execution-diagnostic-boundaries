@@ -1,0 +1,10 @@
+{
+  "case": "exception",
+  "worker_exitcode": 1,
+  "readback_after": {
+    "kill_on_close": true,
+    "job_memory_enabled": true,
+    "job_memory_limit_bytes": 100663296,
+    "peak_job_memory_used_bytes": 9367552
+  }
+}

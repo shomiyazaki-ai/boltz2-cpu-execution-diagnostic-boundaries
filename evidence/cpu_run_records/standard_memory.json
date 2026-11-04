@@ -1,0 +1,8127 @@
+[
+  {
+    "elapsed_s": 0.015,
+    "stage": "LOAD",
+    "available_gib": 10.2284,
+    "commit_headroom_gib": 11.0393,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 2.637,
+          "private_mib": 0.535
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 4.891,
+          "private_mib": 0.859
+        }
+      ],
+      "tracked_count": 2,
+      "unreadable_count": 0,
+      "rss_sum_mib": 7.528,
+      "private_sum_mib": 1.394
+    }
+  },
+  {
+    "elapsed_s": 0.187,
+    "stage": "LOAD",
+    "available_gib": 10.20272,
+    "commit_headroom_gib": 11.01396,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 23.488,
+          "private_mib": 17.199
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 34.722,
+      "private_sum_mib": 19.129
+    }
+  },
+  {
+    "elapsed_s": 0.343,
+    "stage": "LOAD",
+    "available_gib": 10.20971,
+    "commit_headroom_gib": 11.02179,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 23.488,
+          "private_mib": 17.199
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 34.722,
+      "private_sum_mib": 19.129
+    }
+  },
+  {
+    "elapsed_s": 0.515,
+    "stage": "LOAD",
+    "available_gib": 10.20993,
+    "commit_headroom_gib": 11.02119,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 23.488,
+          "private_mib": 17.199
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 34.722,
+      "private_sum_mib": 19.129
+    }
+  },
+  {
+    "elapsed_s": 0.671,
+    "stage": "LOAD",
+    "available_gib": 10.20958,
+    "commit_headroom_gib": 11.02119,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 27.59,
+          "private_mib": 25.215
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 38.824,
+      "private_sum_mib": 27.145
+    }
+  },
+  {
+    "elapsed_s": 0.828,
+    "stage": "LOAD",
+    "available_gib": 10.20953,
+    "commit_headroom_gib": 11.02119,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 26.508,
+          "private_mib": 25.215
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 37.742,
+      "private_sum_mib": 27.145
+    }
+  },
+  {
+    "elapsed_s": 0.984,
+    "stage": "LOAD",
+    "available_gib": 10.21128,
+    "commit_headroom_gib": 11.02182,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 23.488,
+          "private_mib": 17.199
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 34.722,
+      "private_sum_mib": 19.129
+    }
+  },
+  {
+    "elapsed_s": 1.156,
+    "stage": "LOAD",
+    "available_gib": 10.20518,
+    "commit_headroom_gib": 11.01398,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 23.488,
+          "private_mib": 17.195
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 34.722,
+      "private_sum_mib": 19.125
+    }
+  },
+  {
+    "elapsed_s": 1.328,
+    "stage": "LOAD",
+    "available_gib": 10.20369,
+    "commit_headroom_gib": 11.013,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 23.488,
+          "private_mib": 17.199
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 34.722,
+      "private_sum_mib": 19.129
+    }
+  },
+  {
+    "elapsed_s": 1.5,
+    "stage": "LOAD",
+    "available_gib": 10.21072,
+    "commit_headroom_gib": 11.02004,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 23.488,
+          "private_mib": 17.195
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 34.722,
+      "private_sum_mib": 19.125
+    }
+  },
+  {
+    "elapsed_s": 1.656,
+    "stage": "LOAD",
+    "available_gib": 10.21095,
+    "commit_headroom_gib": 11.02005,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 23.488,
+          "private_mib": 17.199
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 34.722,
+      "private_sum_mib": 19.129
+    }
+  },
+  {
+    "elapsed_s": 1.812,
+    "stage": "LOAD",
+    "available_gib": 10.21083,
+    "commit_headroom_gib": 11.02005,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 23.488,
+          "private_mib": 17.199
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 34.722,
+      "private_sum_mib": 19.129
+    }
+  },
+  {
+    "elapsed_s": 1.968,
+    "stage": "LOAD",
+    "available_gib": 10.21029,
+    "commit_headroom_gib": 11.02022,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 31.492,
+          "private_mib": 25.215
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 42.726,
+      "private_sum_mib": 27.145
+    }
+  },
+  {
+    "elapsed_s": 2.125,
+    "stage": "LOAD",
+    "available_gib": 10.21022,
+    "commit_headroom_gib": 11.02022,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 23.488,
+          "private_mib": 17.199
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 34.722,
+      "private_sum_mib": 19.129
+    }
+  },
+  {
+    "elapsed_s": 2.312,
+    "stage": "LOAD",
+    "available_gib": 10.21558,
+    "commit_headroom_gib": 11.02346,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.105,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 22.0,
+          "private_mib": 14.336
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 33.234,
+      "private_sum_mib": 16.266
+    }
+  },
+  {
+    "elapsed_s": 2.484,
+    "stage": "LOAD",
+    "available_gib": 10.1568,
+    "commit_headroom_gib": 10.97067,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 71.727,
+          "private_mib": 67.848
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 82.965,
+      "private_sum_mib": 69.778
+    }
+  },
+  {
+    "elapsed_s": 2.656,
+    "stage": "LOAD",
+    "available_gib": 10.11904,
+    "commit_headroom_gib": 10.71553,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 111.508,
+          "private_mib": 329.227
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 122.746,
+      "private_sum_mib": 331.157
+    }
+  },
+  {
+    "elapsed_s": 2.828,
+    "stage": "LOAD",
+    "available_gib": 10.08369,
+    "commit_headroom_gib": 10.69462,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 134.781,
+          "private_mib": 344.934
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 146.019,
+      "private_sum_mib": 346.864
+    }
+  },
+  {
+    "elapsed_s": 3.0,
+    "stage": "LOAD",
+    "available_gib": 10.07005,
+    "commit_headroom_gib": 10.68474,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 144.328,
+          "private_mib": 354.465
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 155.566,
+      "private_sum_mib": 356.395
+    }
+  },
+  {
+    "elapsed_s": 3.171,
+    "stage": "LOAD",
+    "available_gib": 10.05987,
+    "commit_headroom_gib": 10.67701,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 152.648,
+          "private_mib": 362.754
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 163.886,
+      "private_sum_mib": 364.684
+    }
+  },
+  {
+    "elapsed_s": 3.343,
+    "stage": "LOAD",
+    "available_gib": 10.05737,
+    "commit_headroom_gib": 10.67403,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 157.457,
+          "private_mib": 367.152
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 168.695,
+      "private_sum_mib": 369.082
+    }
+  },
+  {
+    "elapsed_s": 3.531,
+    "stage": "LOAD",
+    "available_gib": 10.04872,
+    "commit_headroom_gib": 10.66792,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 162.367,
+          "private_mib": 372.5
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 173.605,
+      "private_sum_mib": 374.43
+    }
+  },
+  {
+    "elapsed_s": 3.703,
+    "stage": "LOAD",
+    "available_gib": 10.05745,
+    "commit_headroom_gib": 10.66162,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 172.051,
+          "private_mib": 382.031
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 183.289,
+      "private_sum_mib": 383.961
+    }
+  },
+  {
+    "elapsed_s": 3.875,
+    "stage": "LOAD",
+    "available_gib": 10.05024,
+    "commit_headroom_gib": 10.65812,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 182.352,
+          "private_mib": 392.262
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 193.59,
+      "private_sum_mib": 394.192
+    }
+  },
+  {
+    "elapsed_s": 4.062,
+    "stage": "LOAD",
+    "available_gib": 10.04017,
+    "commit_headroom_gib": 10.64892,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 188.887,
+          "private_mib": 399.039
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 200.125,
+      "private_sum_mib": 400.969
+    }
+  },
+  {
+    "elapsed_s": 4.234,
+    "stage": "LOAD",
+    "available_gib": 10.02534,
+    "commit_headroom_gib": 10.64038,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 199.906,
+          "private_mib": 409.977
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 211.144,
+      "private_sum_mib": 411.907
+    }
+  },
+  {
+    "elapsed_s": 4.406,
+    "stage": "LOAD",
+    "available_gib": 10.01418,
+    "commit_headroom_gib": 10.62817,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 211.629,
+          "private_mib": 420.457
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 222.867,
+      "private_sum_mib": 422.387
+    }
+  },
+  {
+    "elapsed_s": 4.578,
+    "stage": "LOAD",
+    "available_gib": 10.00431,
+    "commit_headroom_gib": 10.62315,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 218.531,
+          "private_mib": 427.891
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 229.769,
+      "private_sum_mib": 429.821
+    }
+  },
+  {
+    "elapsed_s": 4.765,
+    "stage": "LOAD",
+    "available_gib": 9.99127,
+    "commit_headroom_gib": 10.61327,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 226.754,
+          "private_mib": 435.902
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 237.992,
+      "private_sum_mib": 437.832
+    }
+  },
+  {
+    "elapsed_s": 4.937,
+    "stage": "LOAD",
+    "available_gib": 9.98444,
+    "commit_headroom_gib": 10.60997,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 230.742,
+          "private_mib": 439.875
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 241.98,
+      "private_sum_mib": 441.805
+    }
+  },
+  {
+    "elapsed_s": 5.109,
+    "stage": "LOAD",
+    "available_gib": 9.99865,
+    "commit_headroom_gib": 10.6045,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 236.961,
+          "private_mib": 446.09
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 248.199,
+      "private_sum_mib": 448.02
+    }
+  },
+  {
+    "elapsed_s": 5.281,
+    "stage": "LOAD",
+    "available_gib": 9.98491,
+    "commit_headroom_gib": 10.59913,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 243.734,
+          "private_mib": 453.234
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 254.972,
+      "private_sum_mib": 455.164
+    }
+  },
+  {
+    "elapsed_s": 5.453,
+    "stage": "LOAD",
+    "available_gib": 9.97522,
+    "commit_headroom_gib": 10.58761,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 253.73,
+          "private_mib": 463.422
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 264.968,
+      "private_sum_mib": 465.352
+    }
+  },
+  {
+    "elapsed_s": 5.64,
+    "stage": "LOAD",
+    "available_gib": 9.96894,
+    "commit_headroom_gib": 10.36542,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 263.57,
+          "private_mib": 695.195
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 274.808,
+      "private_sum_mib": 697.125
+    }
+  },
+  {
+    "elapsed_s": 5.812,
+    "stage": "LOAD",
+    "available_gib": 9.9624,
+    "commit_headroom_gib": 10.36959,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 275.758,
+          "private_mib": 703.637
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 286.996,
+      "private_sum_mib": 705.567
+    }
+  },
+  {
+    "elapsed_s": 5.984,
+    "stage": "LOAD",
+    "available_gib": 9.94996,
+    "commit_headroom_gib": 10.35911,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 287.156,
+          "private_mib": 713.199
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 298.394,
+      "private_sum_mib": 715.129
+    }
+  },
+  {
+    "elapsed_s": 6.156,
+    "stage": "LOAD",
+    "available_gib": 9.94545,
+    "commit_headroom_gib": 10.35484,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 293.586,
+          "private_mib": 719.746
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 304.824,
+      "private_sum_mib": 721.676
+    }
+  },
+  {
+    "elapsed_s": 6.328,
+    "stage": "LOAD",
+    "available_gib": 9.94331,
+    "commit_headroom_gib": 10.31731,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 298.859,
+          "private_mib": 756.324
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 310.097,
+      "private_sum_mib": 758.254
+    }
+  },
+  {
+    "elapsed_s": 6.484,
+    "stage": "LOAD",
+    "available_gib": 9.93948,
+    "commit_headroom_gib": 10.31108,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 309.719,
+          "private_mib": 765.551
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 320.957,
+      "private_sum_mib": 767.481
+    }
+  },
+  {
+    "elapsed_s": 6.656,
+    "stage": "LOAD",
+    "available_gib": 9.91995,
+    "commit_headroom_gib": 10.30687,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 326.438,
+          "private_mib": 777.352
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 337.676,
+      "private_sum_mib": 779.282
+    }
+  },
+  {
+    "elapsed_s": 6.843,
+    "stage": "LOAD",
+    "available_gib": 9.8871,
+    "commit_headroom_gib": 10.28924,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 355.227,
+          "private_mib": 792.359
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 366.465,
+      "private_sum_mib": 794.289
+    }
+  },
+  {
+    "elapsed_s": 7.0,
+    "stage": "LOAD",
+    "available_gib": 9.88661,
+    "commit_headroom_gib": 10.28399,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 360.805,
+          "private_mib": 797.512
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 372.043,
+      "private_sum_mib": 799.442
+    }
+  },
+  {
+    "elapsed_s": 7.171,
+    "stage": "LOAD",
+    "available_gib": 9.87281,
+    "commit_headroom_gib": 10.27852,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 368.309,
+          "private_mib": 804.484
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 379.547,
+      "private_sum_mib": 806.414
+    }
+  },
+  {
+    "elapsed_s": 7.343,
+    "stage": "LOAD",
+    "available_gib": 9.8602,
+    "commit_headroom_gib": 10.26662,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 383.945,
+          "private_mib": 817.344
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 395.183,
+      "private_sum_mib": 819.274
+    }
+  },
+  {
+    "elapsed_s": 7.5,
+    "stage": "LOAD",
+    "available_gib": 9.84049,
+    "commit_headroom_gib": 10.25497,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 396.965,
+          "private_mib": 827.98
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 408.203,
+      "private_sum_mib": 829.91
+    }
+  },
+  {
+    "elapsed_s": 7.671,
+    "stage": "LOAD",
+    "available_gib": 9.82077,
+    "commit_headroom_gib": 10.24439,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 415.332,
+          "private_mib": 840.281
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 426.57,
+      "private_sum_mib": 842.211
+    }
+  },
+  {
+    "elapsed_s": 7.843,
+    "stage": "LOAD",
+    "available_gib": 9.82037,
+    "commit_headroom_gib": 10.23772,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 426.801,
+          "private_mib": 847.895
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 438.039,
+      "private_sum_mib": 849.825
+    }
+  },
+  {
+    "elapsed_s": 8.031,
+    "stage": "LOAD",
+    "available_gib": 9.81852,
+    "commit_headroom_gib": 10.23303,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 430.855,
+          "private_mib": 852.516
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 442.093,
+      "private_sum_mib": 854.446
+    }
+  },
+  {
+    "elapsed_s": 8.187,
+    "stage": "LOAD",
+    "available_gib": 9.81692,
+    "commit_headroom_gib": 10.23303,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 431.863,
+          "private_mib": 852.945
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 443.101,
+      "private_sum_mib": 854.875
+    }
+  },
+  {
+    "elapsed_s": 8.343,
+    "stage": "LOAD",
+    "available_gib": 9.71419,
+    "commit_headroom_gib": 10.10468,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 552.379,
+          "private_mib": 985.008
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 563.617,
+      "private_sum_mib": 986.938
+    }
+  },
+  {
+    "elapsed_s": 8.515,
+    "stage": "LOAD",
+    "available_gib": 9.44976,
+    "commit_headroom_gib": 9.75787,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 824.297,
+          "private_mib": 1339.812
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 835.535,
+      "private_sum_mib": 1341.742
+    }
+  },
+  {
+    "elapsed_s": 8.671,
+    "stage": "LOAD",
+    "available_gib": 9.18131,
+    "commit_headroom_gib": 9.44253,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 1097.914,
+          "private_mib": 1696.156
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 1109.152,
+      "private_sum_mib": 1698.086
+    }
+  },
+  {
+    "elapsed_s": 8.843,
+    "stage": "LOAD",
+    "available_gib": 8.84178,
+    "commit_headroom_gib": 9.03405,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 1452.629,
+          "private_mib": 2113.367
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 1463.867,
+      "private_sum_mib": 2115.297
+    }
+  },
+  {
+    "elapsed_s": 9.015,
+    "stage": "LOAD",
+    "available_gib": 8.42883,
+    "commit_headroom_gib": 8.53259,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 1877.133,
+          "private_mib": 2627.629
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 1888.371,
+      "private_sum_mib": 2629.559
+    }
+  },
+  {
+    "elapsed_s": 9.187,
+    "stage": "LOAD",
+    "available_gib": 7.98992,
+    "commit_headroom_gib": 7.99966,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2328.762,
+          "private_mib": 3172.957
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2340.0,
+      "private_sum_mib": 3174.887
+    }
+  },
+  {
+    "elapsed_s": 9.375,
+    "stage": "LOAD",
+    "available_gib": 7.71078,
+    "commit_headroom_gib": 7.71425,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2606.516,
+          "private_mib": 3432.91
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2617.754,
+      "private_sum_mib": 3434.84
+    }
+  },
+  {
+    "elapsed_s": 9.531,
+    "stage": "LOAD",
+    "available_gib": 7.6597,
+    "commit_headroom_gib": 7.64994,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2641.344,
+          "private_mib": 3499.473
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2652.582,
+      "private_sum_mib": 3501.403
+    }
+  },
+  {
+    "elapsed_s": 9.687,
+    "stage": "LOAD",
+    "available_gib": 7.64445,
+    "commit_headroom_gib": 7.64355,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2654.617,
+          "private_mib": 3505.281
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2665.855,
+      "private_sum_mib": 3507.211
+    }
+  },
+  {
+    "elapsed_s": 9.859,
+    "stage": "LOAD",
+    "available_gib": 7.61274,
+    "commit_headroom_gib": 7.59021,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2686.801,
+          "private_mib": 3559.91
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2698.039,
+      "private_sum_mib": 3561.84
+    }
+  },
+  {
+    "elapsed_s": 10.031,
+    "stage": "LOAD",
+    "available_gib": 7.60482,
+    "commit_headroom_gib": 7.58971,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2693.148,
+          "private_mib": 3559.91
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2704.386,
+      "private_sum_mib": 3561.84
+    }
+  },
+  {
+    "elapsed_s": 10.203,
+    "stage": "LOAD",
+    "available_gib": 7.61951,
+    "commit_headroom_gib": 7.6116,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2676.434,
+          "private_mib": 3537.344
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2687.672,
+      "private_sum_mib": 3539.274
+    }
+  },
+  {
+    "elapsed_s": 10.375,
+    "stage": "LOAD",
+    "available_gib": 7.59311,
+    "commit_headroom_gib": 7.58515,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2705.77,
+          "private_mib": 3564.426
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2717.008,
+      "private_sum_mib": 3566.356
+    }
+  },
+  {
+    "elapsed_s": 10.546,
+    "stage": "LOAD",
+    "available_gib": 7.59241,
+    "commit_headroom_gib": 7.58519,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2708.129,
+          "private_mib": 3564.426
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2719.367,
+      "private_sum_mib": 3566.356
+    }
+  },
+  {
+    "elapsed_s": 10.718,
+    "stage": "LOAD",
+    "available_gib": 7.5728,
+    "commit_headroom_gib": 7.57424,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2734.656,
+          "private_mib": 3582.473
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2745.894,
+      "private_sum_mib": 3584.403
+    }
+  },
+  {
+    "elapsed_s": 10.89,
+    "stage": "LOAD",
+    "available_gib": 7.58189,
+    "commit_headroom_gib": 7.55827,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2735.855,
+          "private_mib": 3610.023
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2747.093,
+      "private_sum_mib": 3611.953
+    }
+  },
+  {
+    "elapsed_s": 11.062,
+    "stage": "LOAD",
+    "available_gib": 7.60056,
+    "commit_headroom_gib": 7.58076,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2701.566,
+          "private_mib": 3569.406
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2712.804,
+      "private_sum_mib": 3571.336
+    }
+  },
+  {
+    "elapsed_s": 11.234,
+    "stage": "LOAD",
+    "available_gib": 7.57312,
+    "commit_headroom_gib": 7.55432,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2730.691,
+          "private_mib": 3596.488
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2741.929,
+      "private_sum_mib": 3598.418
+    }
+  },
+  {
+    "elapsed_s": 11.406,
+    "stage": "LOAD",
+    "available_gib": 7.56757,
+    "commit_headroom_gib": 7.55432,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2718.383,
+          "private_mib": 3573.922
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2729.621,
+      "private_sum_mib": 3575.852
+    }
+  },
+  {
+    "elapsed_s": 11.578,
+    "stage": "LOAD",
+    "available_gib": 7.53901,
+    "commit_headroom_gib": 7.53009,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2768.457,
+          "private_mib": 3621.312
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2779.695,
+      "private_sum_mib": 3623.242
+    }
+  },
+  {
+    "elapsed_s": 11.75,
+    "stage": "LOAD",
+    "available_gib": 7.53141,
+    "commit_headroom_gib": 7.49887,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2771.039,
+          "private_mib": 3651.109
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2782.277,
+      "private_sum_mib": 3653.039
+    }
+  },
+  {
+    "elapsed_s": 11.921,
+    "stage": "LOAD",
+    "available_gib": 7.55118,
+    "commit_headroom_gib": 7.52324,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2771.355,
+          "private_mib": 3646.598
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2782.593,
+      "private_sum_mib": 3648.528
+    }
+  },
+  {
+    "elapsed_s": 12.093,
+    "stage": "LOAD",
+    "available_gib": 7.53571,
+    "commit_headroom_gib": 7.51235,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2777.473,
+          "private_mib": 3646.598
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2788.711,
+      "private_sum_mib": 3648.528
+    }
+  },
+  {
+    "elapsed_s": 12.25,
+    "stage": "LOAD",
+    "available_gib": 7.56529,
+    "commit_headroom_gib": 7.55452,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2739.934,
+          "private_mib": 3601.469
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2751.172,
+      "private_sum_mib": 3603.399
+    }
+  },
+  {
+    "elapsed_s": 12.421,
+    "stage": "LOAD",
+    "available_gib": 7.54198,
+    "commit_headroom_gib": 7.53005,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2768.766,
+          "private_mib": 3628.551
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2780.004,
+      "private_sum_mib": 3630.481
+    }
+  },
+  {
+    "elapsed_s": 12.593,
+    "stage": "LOAD",
+    "available_gib": 7.54035,
+    "commit_headroom_gib": 7.52907,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2769.527,
+          "private_mib": 3628.551
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2780.765,
+      "private_sum_mib": 3630.481
+    }
+  },
+  {
+    "elapsed_s": 12.765,
+    "stage": "LOAD",
+    "available_gib": 7.50462,
+    "commit_headroom_gib": 7.47353,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2805.098,
+          "private_mib": 3683.172
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2816.336,
+      "private_sum_mib": 3685.102
+    }
+  },
+  {
+    "elapsed_s": 12.937,
+    "stage": "LOAD",
+    "available_gib": 7.4979,
+    "commit_headroom_gib": 7.47159,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2804.871,
+          "private_mib": 3683.164
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2816.109,
+      "private_sum_mib": 3685.094
+    }
+  },
+  {
+    "elapsed_s": 13.109,
+    "stage": "LOAD",
+    "available_gib": 7.50945,
+    "commit_headroom_gib": 7.48923,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2811.395,
+          "private_mib": 3678.66
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2822.633,
+      "private_sum_mib": 3680.59
+    }
+  },
+  {
+    "elapsed_s": 13.281,
+    "stage": "LOAD",
+    "available_gib": 7.49442,
+    "commit_headroom_gib": 7.48055,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2817.152,
+          "private_mib": 3678.66
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2828.39,
+      "private_sum_mib": 3680.59
+    }
+  },
+  {
+    "elapsed_s": 13.453,
+    "stage": "LOAD",
+    "available_gib": 7.52721,
+    "commit_headroom_gib": 7.49337,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2783.152,
+          "private_mib": 3665.594
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2794.39,
+      "private_sum_mib": 3667.524
+    }
+  },
+  {
+    "elapsed_s": 13.625,
+    "stage": "LOAD",
+    "available_gib": 7.4994,
+    "commit_headroom_gib": 7.46687,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2794.676,
+          "private_mib": 3670.109
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2805.914,
+      "private_sum_mib": 3672.039
+    }
+  },
+  {
+    "elapsed_s": 13.796,
+    "stage": "LOAD",
+    "available_gib": 7.50772,
+    "commit_headroom_gib": 7.48057,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2792.793,
+          "private_mib": 3666.598
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2804.031,
+      "private_sum_mib": 3668.528
+    }
+  },
+  {
+    "elapsed_s": 13.968,
+    "stage": "LOAD",
+    "available_gib": 7.47391,
+    "commit_headroom_gib": 7.44978,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2848.93,
+          "private_mib": 3724.25
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2860.168,
+      "private_sum_mib": 3726.18
+    }
+  },
+  {
+    "elapsed_s": 14.156,
+    "stage": "LOAD",
+    "available_gib": 7.48786,
+    "commit_headroom_gib": 7.463,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2855.078,
+          "private_mib": 3724.258
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2866.316,
+      "private_sum_mib": 3726.188
+    }
+  },
+  {
+    "elapsed_s": 14.328,
+    "stage": "LOAD",
+    "available_gib": 7.46746,
+    "commit_headroom_gib": 7.42288,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2853.133,
+          "private_mib": 3742.785
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2864.371,
+      "private_sum_mib": 3744.715
+    }
+  },
+  {
+    "elapsed_s": 14.5,
+    "stage": "LOAD",
+    "available_gib": 7.45934,
+    "commit_headroom_gib": 7.42289,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2860.957,
+          "private_mib": 3745.047
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2872.195,
+      "private_sum_mib": 3746.977
+    }
+  },
+  {
+    "elapsed_s": 14.656,
+    "stage": "LOAD",
+    "available_gib": 7.49378,
+    "commit_headroom_gib": 7.46703,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2827.695,
+          "private_mib": 3697.656
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2838.933,
+      "private_sum_mib": 3699.586
+    }
+  },
+  {
+    "elapsed_s": 14.843,
+    "stage": "LOAD",
+    "available_gib": 7.47781,
+    "commit_headroom_gib": 7.45383,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2846.566,
+          "private_mib": 3720.223
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2857.804,
+      "private_sum_mib": 3722.153
+    }
+  },
+  {
+    "elapsed_s": 15.015,
+    "stage": "LOAD",
+    "available_gib": 7.48077,
+    "commit_headroom_gib": 7.46616,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2832.215,
+          "private_mib": 3697.656
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2843.453,
+      "private_sum_mib": 3699.586
+    }
+  },
+  {
+    "elapsed_s": 15.187,
+    "stage": "LOAD",
+    "available_gib": 7.44299,
+    "commit_headroom_gib": 7.39617,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2892.773,
+          "private_mib": 3788.383
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2904.011,
+      "private_sum_mib": 3790.313
+    }
+  },
+  {
+    "elapsed_s": 15.359,
+    "stage": "LOAD",
+    "available_gib": 7.4228,
+    "commit_headroom_gib": 7.37868,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2864.727,
+          "private_mib": 3756.801
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2875.965,
+      "private_sum_mib": 3758.731
+    }
+  },
+  {
+    "elapsed_s": 15.531,
+    "stage": "LOAD",
+    "available_gib": 7.4266,
+    "commit_headroom_gib": 7.3919,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2897.297,
+          "private_mib": 3777.109
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2908.535,
+      "private_sum_mib": 3779.039
+    }
+  },
+  {
+    "elapsed_s": 15.687,
+    "stage": "LOAD",
+    "available_gib": 7.41865,
+    "commit_headroom_gib": 7.3919,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2903.117,
+          "private_mib": 3781.625
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2914.355,
+      "private_sum_mib": 3783.555
+    }
+  },
+  {
+    "elapsed_s": 15.859,
+    "stage": "LOAD",
+    "available_gib": 7.44536,
+    "commit_headroom_gib": 7.40044,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2883.328,
+          "private_mib": 3784.348
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2894.566,
+      "private_sum_mib": 3786.278
+    }
+  },
+  {
+    "elapsed_s": 16.031,
+    "stage": "LOAD",
+    "available_gib": 7.42729,
+    "commit_headroom_gib": 7.38276,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2890.145,
+          "private_mib": 3784.348
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2901.383,
+      "private_sum_mib": 3786.278
+    }
+  },
+  {
+    "elapsed_s": 16.203,
+    "stage": "LOAD",
+    "available_gib": 7.44001,
+    "commit_headroom_gib": 7.40382,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2873.977,
+          "private_mib": 3761.781
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2885.215,
+      "private_sum_mib": 3763.711
+    }
+  },
+  {
+    "elapsed_s": 16.39,
+    "stage": "LOAD",
+    "available_gib": 7.41492,
+    "commit_headroom_gib": 7.37835,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2903.031,
+          "private_mib": 3788.863
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2914.269,
+      "private_sum_mib": 3790.793
+    }
+  },
+  {
+    "elapsed_s": 16.562,
+    "stage": "LOAD",
+    "available_gib": 7.40923,
+    "commit_headroom_gib": 7.37835,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2894.426,
+          "private_mib": 3770.809
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2905.664,
+      "private_sum_mib": 3772.739
+    }
+  },
+  {
+    "elapsed_s": 16.734,
+    "stage": "LOAD",
+    "available_gib": 7.37852,
+    "commit_headroom_gib": 7.3228,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2930.535,
+          "private_mib": 3834.457
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2941.773,
+      "private_sum_mib": 3836.387
+    }
+  },
+  {
+    "elapsed_s": 16.906,
+    "stage": "LOAD",
+    "available_gib": 7.38014,
+    "commit_headroom_gib": 7.32501,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2947.762,
+          "private_mib": 3852.5
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2959.0,
+      "private_sum_mib": 3854.43
+    }
+  },
+  {
+    "elapsed_s": 17.078,
+    "stage": "LOAD",
+    "available_gib": 7.37938,
+    "commit_headroom_gib": 7.33456,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2947.508,
+          "private_mib": 3840.48
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2958.746,
+      "private_sum_mib": 3842.41
+    }
+  },
+  {
+    "elapsed_s": 17.25,
+    "stage": "LOAD",
+    "available_gib": 7.36757,
+    "commit_headroom_gib": 7.32795,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2952.43,
+          "private_mib": 3840.48
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2963.668,
+      "private_sum_mib": 3842.41
+    }
+  },
+  {
+    "elapsed_s": 17.421,
+    "stage": "LOAD",
+    "available_gib": 7.39998,
+    "commit_headroom_gib": 7.37202,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2918.547,
+          "private_mib": 3795.348
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2929.785,
+      "private_sum_mib": 3797.278
+    }
+  },
+  {
+    "elapsed_s": 17.593,
+    "stage": "LOAD",
+    "available_gib": 7.37259,
+    "commit_headroom_gib": 7.31426,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2935.84,
+          "private_mib": 3840.949
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2947.078,
+      "private_sum_mib": 3842.879
+    }
+  },
+  {
+    "elapsed_s": 17.765,
+    "stage": "LOAD",
+    "available_gib": 7.37624,
+    "commit_headroom_gib": 7.32308,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2929.207,
+          "private_mib": 3828.414
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2940.445,
+      "private_sum_mib": 3830.344
+    }
+  },
+  {
+    "elapsed_s": 17.937,
+    "stage": "LOAD",
+    "available_gib": 7.33893,
+    "commit_headroom_gib": 7.29011,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2978.82,
+          "private_mib": 3877.055
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2990.058,
+      "private_sum_mib": 3878.985
+    }
+  },
+  {
+    "elapsed_s": 18.109,
+    "stage": "LOAD",
+    "available_gib": 7.33244,
+    "commit_headroom_gib": 7.29011,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2977.129,
+          "private_mib": 3868.027
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2988.367,
+      "private_sum_mib": 3869.957
+    }
+  },
+  {
+    "elapsed_s": 18.281,
+    "stage": "LOAD",
+    "available_gib": 7.33435,
+    "commit_headroom_gib": 7.29673,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2988.305,
+          "private_mib": 3872.543
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2999.543,
+      "private_sum_mib": 3874.473
+    }
+  },
+  {
+    "elapsed_s": 18.453,
+    "stage": "LOAD",
+    "available_gib": 7.33098,
+    "commit_headroom_gib": 7.29676,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2989.719,
+          "private_mib": 3872.543
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3000.957,
+      "private_sum_mib": 3874.473
+    }
+  },
+  {
+    "elapsed_s": 18.625,
+    "stage": "LOAD",
+    "available_gib": 7.35876,
+    "commit_headroom_gib": 7.3095,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2977.223,
+          "private_mib": 3882.043
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2988.461,
+      "private_sum_mib": 3883.973
+    }
+  },
+  {
+    "elapsed_s": 18.796,
+    "stage": "LOAD",
+    "available_gib": 7.33874,
+    "commit_headroom_gib": 7.29187,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2984.016,
+          "private_mib": 3882.043
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2995.254,
+      "private_sum_mib": 3883.973
+    }
+  },
+  {
+    "elapsed_s": 18.968,
+    "stage": "LOAD",
+    "available_gib": 7.34846,
+    "commit_headroom_gib": 7.30954,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2971.121,
+          "private_mib": 3862.488
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 2982.359,
+      "private_sum_mib": 3864.418
+    }
+  },
+  {
+    "elapsed_s": 19.14,
+    "stage": "LOAD",
+    "available_gib": 7.31965,
+    "commit_headroom_gib": 7.28319,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2996.684,
+          "private_mib": 3886.559
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3007.922,
+      "private_sum_mib": 3888.489
+    }
+  },
+  {
+    "elapsed_s": 19.312,
+    "stage": "LOAD",
+    "available_gib": 7.32253,
+    "commit_headroom_gib": 7.28319,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 2997.918,
+          "private_mib": 3886.559
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3009.156,
+      "private_sum_mib": 3888.489
+    }
+  },
+  {
+    "elapsed_s": 19.484,
+    "stage": "LOAD",
+    "available_gib": 7.28827,
+    "commit_headroom_gib": 7.22777,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3036.422,
+          "private_mib": 3943.449
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3047.66,
+      "private_sum_mib": 3945.379
+    }
+  },
+  {
+    "elapsed_s": 19.656,
+    "stage": "LOAD",
+    "available_gib": 7.2795,
+    "commit_headroom_gib": 7.22778,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3042.172,
+          "private_mib": 3945.699
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3053.41,
+      "private_sum_mib": 3947.629
+    }
+  },
+  {
+    "elapsed_s": 19.828,
+    "stage": "LOAD",
+    "available_gib": 7.2987,
+    "commit_headroom_gib": 7.25643,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3037.754,
+          "private_mib": 3932.16
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3048.992,
+      "private_sum_mib": 3934.09
+    }
+  },
+  {
+    "elapsed_s": 20.0,
+    "stage": "LOAD",
+    "available_gib": 7.28735,
+    "commit_headroom_gib": 7.24327,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3041.719,
+          "private_mib": 3936.672
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3052.957,
+      "private_sum_mib": 3938.602
+    }
+  },
+  {
+    "elapsed_s": 20.171,
+    "stage": "LOAD",
+    "available_gib": 7.30705,
+    "commit_headroom_gib": 7.24722,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3011.648,
+          "private_mib": 3923.602
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3022.886,
+      "private_sum_mib": 3925.532
+    }
+  },
+  {
+    "elapsed_s": 20.343,
+    "stage": "LOAD",
+    "available_gib": 7.28105,
+    "commit_headroom_gib": 7.22077,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3025.004,
+          "private_mib": 3928.117
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3036.242,
+      "private_sum_mib": 3930.047
+    }
+  },
+  {
+    "elapsed_s": 20.515,
+    "stage": "LOAD",
+    "available_gib": 7.29342,
+    "commit_headroom_gib": 7.24268,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3022.293,
+          "private_mib": 3924.605
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3033.531,
+      "private_sum_mib": 3926.535
+    }
+  },
+  {
+    "elapsed_s": 20.687,
+    "stage": "LOAD",
+    "available_gib": 7.25647,
+    "commit_headroom_gib": 7.20646,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3082.68,
+          "private_mib": 3983.262
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3093.918,
+      "private_sum_mib": 3985.192
+    }
+  },
+  {
+    "elapsed_s": 20.859,
+    "stage": "LOAD",
+    "available_gib": 7.25101,
+    "commit_headroom_gib": 7.20646,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3086.645,
+          "private_mib": 3983.27
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3097.883,
+      "private_sum_mib": 3985.2
+    }
+  },
+  {
+    "elapsed_s": 21.031,
+    "stage": "LOAD",
+    "available_gib": 7.24258,
+    "commit_headroom_gib": 7.17085,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3082.82,
+          "private_mib": 4001.797
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3094.058,
+      "private_sum_mib": 4003.727
+    }
+  },
+  {
+    "elapsed_s": 21.203,
+    "stage": "LOAD",
+    "available_gib": 7.23706,
+    "commit_headroom_gib": 7.17093,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3087.77,
+          "private_mib": 4001.797
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3099.008,
+      "private_sum_mib": 4003.727
+    }
+  },
+  {
+    "elapsed_s": 21.375,
+    "stage": "LOAD",
+    "available_gib": 7.26793,
+    "commit_headroom_gib": 7.215,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3060.672,
+          "private_mib": 3961.18
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3071.91,
+      "private_sum_mib": 3963.11
+    }
+  },
+  {
+    "elapsed_s": 21.562,
+    "stage": "LOAD",
+    "available_gib": 7.25821,
+    "commit_headroom_gib": 7.21067,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3076.27,
+          "private_mib": 3979.234
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3087.508,
+      "private_sum_mib": 3981.164
+    }
+  },
+  {
+    "elapsed_s": 21.734,
+    "stage": "LOAD",
+    "available_gib": 7.25611,
+    "commit_headroom_gib": 7.21213,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3062.488,
+          "private_mib": 3957.672
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3073.726,
+      "private_sum_mib": 3959.602
+    }
+  },
+  {
+    "elapsed_s": 21.89,
+    "stage": "LOAD",
+    "available_gib": 7.21737,
+    "commit_headroom_gib": 7.14418,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3122.309,
+          "private_mib": 4047.387
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3133.547,
+      "private_sum_mib": 4049.317
+    }
+  },
+  {
+    "elapsed_s": 22.078,
+    "stage": "LOAD",
+    "available_gib": 7.21241,
+    "commit_headroom_gib": 7.1442,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3126.668,
+          "private_mib": 4047.395
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3137.906,
+      "private_sum_mib": 4049.325
+    }
+  },
+  {
+    "elapsed_s": 22.25,
+    "stage": "LOAD",
+    "available_gib": 7.20393,
+    "commit_headroom_gib": 7.13979,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3123.223,
+          "private_mib": 4033.859
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3134.461,
+      "private_sum_mib": 4035.789
+    }
+  },
+  {
+    "elapsed_s": 22.421,
+    "stage": "LOAD",
+    "available_gib": 7.19671,
+    "commit_headroom_gib": 7.13979,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3131.84,
+          "private_mib": 4040.637
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3143.078,
+      "private_sum_mib": 4042.567
+    }
+  },
+  {
+    "elapsed_s": 22.593,
+    "stage": "LOAD",
+    "available_gib": 7.22966,
+    "commit_headroom_gib": 7.15262,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3101.805,
+          "private_mib": 4025.305
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3113.043,
+      "private_sum_mib": 4027.235
+    }
+  },
+  {
+    "elapsed_s": 22.765,
+    "stage": "LOAD",
+    "available_gib": 7.21673,
+    "commit_headroom_gib": 7.14824,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3116.027,
+          "private_mib": 4043.359
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3127.265,
+      "private_sum_mib": 4045.289
+    }
+  },
+  {
+    "elapsed_s": 22.937,
+    "stage": "LOAD",
+    "available_gib": 7.2775,
+    "commit_headroom_gib": 7.15128,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3103.773,
+          "private_mib": 4021.797
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3115.011,
+      "private_sum_mib": 4023.727
+    }
+  },
+  {
+    "elapsed_s": 23.109,
+    "stage": "LOAD",
+    "available_gib": 7.31918,
+    "commit_headroom_gib": 7.0998,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3156.715,
+          "private_mib": 4072.699
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3167.953,
+      "private_sum_mib": 4074.629
+    }
+  },
+  {
+    "elapsed_s": 23.265,
+    "stage": "LOAD",
+    "available_gib": 7.34319,
+    "commit_headroom_gib": 7.10621,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3158.93,
+          "private_mib": 4072.699
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3170.168,
+      "private_sum_mib": 4074.629
+    }
+  },
+  {
+    "elapsed_s": 23.437,
+    "stage": "LOAD",
+    "available_gib": 7.37179,
+    "commit_headroom_gib": 7.11903,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3138.902,
+          "private_mib": 4075.422
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3150.14,
+      "private_sum_mib": 4077.352
+    }
+  },
+  {
+    "elapsed_s": 23.609,
+    "stage": "LOAD",
+    "available_gib": 7.36205,
+    "commit_headroom_gib": 7.11456,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3144.465,
+          "private_mib": 4075.422
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3155.703,
+      "private_sum_mib": 4077.352
+    }
+  },
+  {
+    "elapsed_s": 23.781,
+    "stage": "LOAD",
+    "available_gib": 7.36465,
+    "commit_headroom_gib": 7.11897,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3132.445,
+          "private_mib": 4055.871
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3143.683,
+      "private_sum_mib": 4057.801
+    }
+  },
+  {
+    "elapsed_s": 23.953,
+    "stage": "LOAD",
+    "available_gib": 7.30732,
+    "commit_headroom_gib": 7.06168,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3157.781,
+          "private_mib": 4079.938
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3169.019,
+      "private_sum_mib": 4081.868
+    }
+  },
+  {
+    "elapsed_s": 24.125,
+    "stage": "LOAD",
+    "available_gib": 7.33516,
+    "commit_headroom_gib": 7.09252,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3163.219,
+          "private_mib": 4079.938
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3174.457,
+      "private_sum_mib": 4081.868
+    }
+  },
+  {
+    "elapsed_s": 24.296,
+    "stage": "LOAD",
+    "available_gib": 7.3051,
+    "commit_headroom_gib": 7.03779,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3197.273,
+          "private_mib": 4137.824
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3208.511,
+      "private_sum_mib": 4139.754
+    }
+  },
+  {
+    "elapsed_s": 24.468,
+    "stage": "LOAD",
+    "available_gib": 7.2984,
+    "commit_headroom_gib": 7.03784,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3203.195,
+          "private_mib": 4137.824
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3214.433,
+      "private_sum_mib": 4139.754
+    }
+  },
+  {
+    "elapsed_s": 24.64,
+    "stage": "LOAD",
+    "available_gib": 7.31703,
+    "commit_headroom_gib": 7.06649,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3188.32,
+          "private_mib": 4122.02
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3199.558,
+      "private_sum_mib": 4123.95
+    }
+  },
+  {
+    "elapsed_s": 24.812,
+    "stage": "LOAD",
+    "available_gib": 7.31096,
+    "commit_headroom_gib": 7.06208,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3207.047,
+          "private_mib": 4131.051
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3218.285,
+      "private_sum_mib": 4132.981
+    }
+  },
+  {
+    "elapsed_s": 24.984,
+    "stage": "LOAD",
+    "available_gib": 7.32638,
+    "commit_headroom_gib": 7.08803,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3171.953,
+          "private_mib": 4086.43
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3183.191,
+      "private_sum_mib": 4088.36
+    }
+  },
+  {
+    "elapsed_s": 25.156,
+    "stage": "LOAD",
+    "available_gib": 7.29943,
+    "commit_headroom_gib": 7.06157,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3201.742,
+          "private_mib": 4113.52
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3212.98,
+      "private_sum_mib": 4115.45
+    }
+  },
+  {
+    "elapsed_s": 25.328,
+    "stage": "LOAD",
+    "available_gib": 7.2988,
+    "commit_headroom_gib": 7.06157,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3186.75,
+          "private_mib": 4123.008
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3197.988,
+      "private_sum_mib": 4124.938
+    }
+  },
+  {
+    "elapsed_s": 25.5,
+    "stage": "LOAD",
+    "available_gib": 7.26407,
+    "commit_headroom_gib": 7.00602,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3215.582,
+          "private_mib": 4145.582
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3226.82,
+      "private_sum_mib": 4147.512
+    }
+  },
+  {
+    "elapsed_s": 25.671,
+    "stage": "LOAD",
+    "available_gib": 7.26589,
+    "commit_headroom_gib": 7.00823,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3242.598,
+          "private_mib": 4177.156
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3253.836,
+      "private_sum_mib": 4179.086
+    }
+  },
+  {
+    "elapsed_s": 25.843,
+    "stage": "LOAD",
+    "available_gib": 7.26615,
+    "commit_headroom_gib": 7.01925,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3244.141,
+          "private_mib": 4163.629
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3255.379,
+      "private_sum_mib": 4165.559
+    }
+  },
+  {
+    "elapsed_s": 26.031,
+    "stage": "LOAD",
+    "available_gib": 7.25835,
+    "commit_headroom_gib": 7.01264,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3245.629,
+          "private_mib": 4163.629
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3256.867,
+      "private_sum_mib": 4165.559
+    }
+  },
+  {
+    "elapsed_s": 26.203,
+    "stage": "LOAD",
+    "available_gib": 7.28702,
+    "commit_headroom_gib": 7.02498,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3220.613,
+          "private_mib": 4151.059
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3231.851,
+      "private_sum_mib": 4152.989
+    }
+  },
+  {
+    "elapsed_s": 26.359,
+    "stage": "LOAD",
+    "available_gib": 7.25767,
+    "commit_headroom_gib": 6.99852,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3229.539,
+          "private_mib": 4155.578
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3240.777,
+      "private_sum_mib": 4157.508
+    }
+  },
+  {
+    "elapsed_s": 26.546,
+    "stage": "LOAD",
+    "available_gib": 7.27334,
+    "commit_headroom_gib": 7.02498,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3227.129,
+          "private_mib": 4153.07
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3238.367,
+      "private_sum_mib": 4155.0
+    }
+  },
+  {
+    "elapsed_s": 26.718,
+    "stage": "LOAD",
+    "available_gib": 7.24536,
+    "commit_headroom_gib": 6.98972,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3283.973,
+          "private_mib": 4209.73
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3295.211,
+      "private_sum_mib": 4211.66
+    }
+  },
+  {
+    "elapsed_s": 26.89,
+    "stage": "LOAD",
+    "available_gib": 7.22315,
+    "commit_headroom_gib": 6.96769,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3288.102,
+          "private_mib": 4209.73
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3299.34,
+      "private_sum_mib": 4211.66
+    }
+  },
+  {
+    "elapsed_s": 27.062,
+    "stage": "LOAD",
+    "available_gib": 7.21872,
+    "commit_headroom_gib": 6.94959,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3286.723,
+          "private_mib": 4228.258
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3297.961,
+      "private_sum_mib": 4230.188
+    }
+  },
+  {
+    "elapsed_s": 27.234,
+    "stage": "LOAD",
+    "available_gib": 7.21113,
+    "commit_headroom_gib": 6.94965,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3294.469,
+          "private_mib": 4235.035
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3305.707,
+      "private_sum_mib": 4236.965
+    }
+  },
+  {
+    "elapsed_s": 27.406,
+    "stage": "LOAD",
+    "available_gib": 7.23894,
+    "commit_headroom_gib": 6.98932,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3274.887,
+          "private_mib": 4205.695
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3286.125,
+      "private_sum_mib": 4207.625
+    }
+  },
+  {
+    "elapsed_s": 27.578,
+    "stage": "LOAD",
+    "available_gib": 7.22196,
+    "commit_headroom_gib": 6.97168,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3281.477,
+          "private_mib": 4205.695
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3292.715,
+      "private_sum_mib": 4207.625
+    }
+  },
+  {
+    "elapsed_s": 27.75,
+    "stage": "LOAD",
+    "available_gib": 7.23492,
+    "commit_headroom_gib": 6.99377,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3267.867,
+          "private_mib": 4186.141
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3279.105,
+      "private_sum_mib": 4188.071
+    }
+  },
+  {
+    "elapsed_s": 27.921,
+    "stage": "LOAD",
+    "available_gib": 7.20074,
+    "commit_headroom_gib": 6.93062,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3293.422,
+          "private_mib": 4243.273
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3304.66,
+      "private_sum_mib": 4245.203
+    }
+  },
+  {
+    "elapsed_s": 28.093,
+    "stage": "LOAD",
+    "available_gib": 7.20485,
+    "commit_headroom_gib": 6.93503,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3299.293,
+          "private_mib": 4243.273
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3310.531,
+      "private_sum_mib": 4245.203
+    }
+  },
+  {
+    "elapsed_s": 28.265,
+    "stage": "LOAD",
+    "available_gib": 7.17477,
+    "commit_headroom_gib": 6.91142,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3333.156,
+          "private_mib": 4268.098
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3344.394,
+      "private_sum_mib": 4270.028
+    }
+  },
+  {
+    "elapsed_s": 28.437,
+    "stage": "LOAD",
+    "available_gib": 7.16709,
+    "commit_headroom_gib": 6.91142,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3338.996,
+          "private_mib": 4268.098
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3350.234,
+      "private_sum_mib": 4270.028
+    }
+  },
+  {
+    "elapsed_s": 28.609,
+    "stage": "LOAD",
+    "available_gib": 7.18634,
+    "commit_headroom_gib": 6.9085,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3332.406,
+          "private_mib": 4284.355
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3343.644,
+      "private_sum_mib": 4286.285
+    }
+  },
+  {
+    "elapsed_s": 28.781,
+    "stage": "LOAD",
+    "available_gib": 7.17303,
+    "commit_headroom_gib": 6.89528,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3343.051,
+          "private_mib": 4293.383
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3354.289,
+      "private_sum_mib": 4295.313
+    }
+  },
+  {
+    "elapsed_s": 28.953,
+    "stage": "LOAD",
+    "available_gib": 7.19505,
+    "commit_headroom_gib": 6.93066,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3308.582,
+          "private_mib": 4248.246
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3319.82,
+      "private_sum_mib": 4250.176
+    }
+  },
+  {
+    "elapsed_s": 29.125,
+    "stage": "LOAD",
+    "available_gib": 7.16559,
+    "commit_headroom_gib": 6.90427,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3330.066,
+          "private_mib": 4266.305
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3341.304,
+      "private_sum_mib": 4268.235
+    }
+  },
+  {
+    "elapsed_s": 29.296,
+    "stage": "LOAD",
+    "available_gib": 7.18192,
+    "commit_headroom_gib": 6.93075,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3318.805,
+          "private_mib": 4248.246
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3330.043,
+      "private_sum_mib": 4250.176
+    }
+  },
+  {
+    "elapsed_s": 29.484,
+    "stage": "LOAD",
+    "available_gib": 7.13773,
+    "commit_headroom_gib": 6.85096,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3345.809,
+          "private_mib": 4307.398
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3357.047,
+      "private_sum_mib": 4309.328
+    }
+  },
+  {
+    "elapsed_s": 29.656,
+    "stage": "LOAD",
+    "available_gib": 7.12285,
+    "commit_headroom_gib": 6.84216,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3351.508,
+          "private_mib": 4307.398
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3362.746,
+      "private_sum_mib": 4309.328
+    }
+  },
+  {
+    "elapsed_s": 29.828,
+    "stage": "LOAD",
+    "available_gib": 7.12592,
+    "commit_headroom_gib": 6.85538,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3385.332,
+          "private_mib": 4332.223
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3396.57,
+      "private_sum_mib": 4334.153
+    }
+  },
+  {
+    "elapsed_s": 30.0,
+    "stage": "LOAD",
+    "available_gib": 7.1165,
+    "commit_headroom_gib": 6.84876,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.129,
+          "private_mib": 0.758
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.109,
+          "private_mib": 1.172
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3391.445,
+          "private_mib": 4332.223
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3402.683,
+      "private_sum_mib": 4334.153
+    }
+  },
+  {
+    "elapsed_s": 30.171,
+    "stage": "LOAD",
+    "available_gib": 7.13499,
+    "commit_headroom_gib": 6.8461,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3371.594,
+          "private_mib": 4334.945
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3382.786,
+      "private_sum_mib": 4336.785
+    }
+  },
+  {
+    "elapsed_s": 30.343,
+    "stage": "LOAD",
+    "available_gib": 7.12748,
+    "commit_headroom_gib": 6.84613,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3390.828,
+          "private_mib": 4350.738
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3402.02,
+      "private_sum_mib": 4352.578
+    }
+  },
+  {
+    "elapsed_s": 30.515,
+    "stage": "LOAD",
+    "available_gib": 7.14185,
+    "commit_headroom_gib": 6.86818,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3361.105,
+          "private_mib": 4312.371
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3372.297,
+      "private_sum_mib": 4314.211
+    }
+  },
+  {
+    "elapsed_s": 30.687,
+    "stage": "LOAD",
+    "available_gib": 7.11456,
+    "commit_headroom_gib": 6.84172,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3390.602,
+          "private_mib": 4339.461
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3401.794,
+      "private_sum_mib": 4341.301
+    }
+  },
+  {
+    "elapsed_s": 30.859,
+    "stage": "LOAD",
+    "available_gib": 7.10903,
+    "commit_headroom_gib": 6.84172,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3374.035,
+          "private_mib": 4313.383
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3385.227,
+      "private_sum_mib": 4315.223
+    }
+  },
+  {
+    "elapsed_s": 31.031,
+    "stage": "LOAD",
+    "available_gib": 7.07821,
+    "commit_headroom_gib": 6.78617,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3429.887,
+          "private_mib": 4403.098
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3441.079,
+      "private_sum_mib": 4404.938
+    }
+  },
+  {
+    "elapsed_s": 31.218,
+    "stage": "LOAD",
+    "available_gib": 7.06961,
+    "commit_headroom_gib": 6.78166,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3405.414,
+          "private_mib": 4371.523
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3416.606,
+      "private_sum_mib": 4373.363
+    }
+  },
+  {
+    "elapsed_s": 31.375,
+    "stage": "LOAD",
+    "available_gib": 7.07515,
+    "commit_headroom_gib": 6.7939,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3435.051,
+          "private_mib": 4390.574
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3446.243,
+      "private_sum_mib": 4392.414
+    }
+  },
+  {
+    "elapsed_s": 31.546,
+    "stage": "LOAD",
+    "available_gib": 7.06898,
+    "commit_headroom_gib": 6.7939,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3443.254,
+          "private_mib": 4397.344
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3454.446,
+      "private_sum_mib": 4399.184
+    }
+  },
+  {
+    "elapsed_s": 31.718,
+    "stage": "LOAD",
+    "available_gib": 7.10067,
+    "commit_headroom_gib": 6.83797,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3422.984,
+          "private_mib": 4400.07
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3434.176,
+      "private_sum_mib": 4401.91
+    }
+  },
+  {
+    "elapsed_s": 31.89,
+    "stage": "LOAD",
+    "available_gib": 7.0895,
+    "commit_headroom_gib": 6.80225,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3428.773,
+          "private_mib": 4400.07
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3439.965,
+      "private_sum_mib": 4401.91
+    }
+  },
+  {
+    "elapsed_s": 32.062,
+    "stage": "LOAD",
+    "available_gib": 7.09198,
+    "commit_headroom_gib": 6.80677,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3414.328,
+          "private_mib": 4377.504
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3425.52,
+      "private_sum_mib": 4379.344
+    }
+  },
+  {
+    "elapsed_s": 32.234,
+    "stage": "LOAD",
+    "available_gib": 7.06787,
+    "commit_headroom_gib": 6.78032,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3442.453,
+          "private_mib": 4404.59
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3453.645,
+      "private_sum_mib": 4406.43
+    }
+  },
+  {
+    "elapsed_s": 32.406,
+    "stage": "LOAD",
+    "available_gib": 7.06237,
+    "commit_headroom_gib": 6.78033,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3447.738,
+          "private_mib": 4404.59
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3458.93,
+      "private_sum_mib": 4406.43
+    }
+  },
+  {
+    "elapsed_s": 32.593,
+    "stage": "LOAD",
+    "available_gib": 7.0311,
+    "commit_headroom_gib": 6.7561,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3482.375,
+          "private_mib": 4429.406
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3493.567,
+      "private_sum_mib": 4431.246
+    }
+  },
+  {
+    "elapsed_s": 32.765,
+    "stage": "LOAD",
+    "available_gib": 7.02603,
+    "commit_headroom_gib": 6.7561,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3480.82,
+          "private_mib": 4427.148
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3492.012,
+      "private_sum_mib": 4428.988
+    }
+  },
+  {
+    "elapsed_s": 32.937,
+    "stage": "LOAD",
+    "available_gib": 7.04027,
+    "commit_headroom_gib": 6.75351,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3486.805,
+          "private_mib": 4454.699
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3497.997,
+      "private_sum_mib": 4456.539
+    }
+  },
+  {
+    "elapsed_s": 33.109,
+    "stage": "LOAD",
+    "available_gib": 7.01759,
+    "commit_headroom_gib": 6.73153,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3492.918,
+          "private_mib": 4454.699
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3504.11,
+      "private_sum_mib": 4456.539
+    }
+  },
+  {
+    "elapsed_s": 33.281,
+    "stage": "LOAD",
+    "available_gib": 7.04933,
+    "commit_headroom_gib": 6.77462,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3464.723,
+          "private_mib": 4415.086
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3475.915,
+      "private_sum_mib": 4416.926
+    }
+  },
+  {
+    "elapsed_s": 33.453,
+    "stage": "LOAD",
+    "available_gib": 7.03801,
+    "commit_headroom_gib": 6.73898,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3478.137,
+          "private_mib": 4433.141
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3489.329,
+      "private_sum_mib": 4434.981
+    }
+  },
+  {
+    "elapsed_s": 33.625,
+    "stage": "LOAD",
+    "available_gib": 7.03622,
+    "commit_headroom_gib": 6.74337,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3469.547,
+          "private_mib": 4442.637
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3480.739,
+      "private_sum_mib": 4444.477
+    }
+  },
+  {
+    "elapsed_s": 33.796,
+    "stage": "LOAD",
+    "available_gib": 6.98977,
+    "commit_headroom_gib": 6.69485,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3495.766,
+          "private_mib": 4469.723
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3506.958,
+      "private_sum_mib": 4471.563
+    }
+  },
+  {
+    "elapsed_s": 33.968,
+    "stage": "LOAD",
+    "available_gib": 6.97694,
+    "commit_headroom_gib": 6.68609,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3501.469,
+          "private_mib": 4469.723
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3512.661,
+      "private_sum_mib": 4471.563
+    }
+  },
+  {
+    "elapsed_s": 34.14,
+    "stage": "LOAD",
+    "available_gib": 6.9801,
+    "commit_headroom_gib": 6.69931,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3535.148,
+          "private_mib": 4494.543
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3546.34,
+      "private_sum_mib": 4496.383
+    }
+  },
+  {
+    "elapsed_s": 34.312,
+    "stage": "LOAD",
+    "available_gib": 6.97602,
+    "commit_headroom_gib": 6.6927,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3537.004,
+          "private_mib": 4494.539
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3548.196,
+      "private_sum_mib": 4496.379
+    }
+  },
+  {
+    "elapsed_s": 34.5,
+    "stage": "LOAD",
+    "available_gib": 6.99094,
+    "commit_headroom_gib": 6.68905,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3523.004,
+          "private_mib": 4502.781
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3534.196,
+      "private_sum_mib": 4504.621
+    }
+  },
+  {
+    "elapsed_s": 34.671,
+    "stage": "LOAD",
+    "available_gib": 6.98205,
+    "commit_headroom_gib": 6.6847,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3545.488,
+          "private_mib": 4520.832
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3556.68,
+      "private_sum_mib": 4522.672
+    }
+  },
+  {
+    "elapsed_s": 34.843,
+    "stage": "LOAD",
+    "available_gib": 6.99752,
+    "commit_headroom_gib": 6.71119,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3509.836,
+          "private_mib": 4475.699
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3521.028,
+      "private_sum_mib": 4477.539
+    }
+  },
+  {
+    "elapsed_s": 35.0,
+    "stage": "LOAD",
+    "available_gib": 6.97732,
+    "commit_headroom_gib": 6.68922,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3534.102,
+          "private_mib": 4498.27
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3545.294,
+      "private_sum_mib": 4500.11
+    }
+  },
+  {
+    "elapsed_s": 35.171,
+    "stage": "LOAD",
+    "available_gib": 6.9698,
+    "commit_headroom_gib": 6.68922,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3555.562,
+          "private_mib": 4516.32
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3566.754,
+      "private_sum_mib": 4518.16
+    }
+  },
+  {
+    "elapsed_s": 35.343,
+    "stage": "LOAD",
+    "available_gib": 6.98523,
+    "commit_headroom_gib": 6.71134,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3521.805,
+          "private_mib": 4475.699
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3532.997,
+      "private_sum_mib": 4477.539
+    }
+  },
+  {
+    "elapsed_s": 35.5,
+    "stage": "LOAD",
+    "available_gib": 6.89367,
+    "commit_headroom_gib": 6.5864,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3621.098,
+          "private_mib": 4603.641
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3632.29,
+      "private_sum_mib": 4605.481
+    }
+  },
+  {
+    "elapsed_s": 35.687,
+    "stage": "LOAD",
+    "available_gib": 6.9276,
+    "commit_headroom_gib": 6.62498,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3582.824,
+          "private_mib": 4564.16
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3594.016,
+      "private_sum_mib": 4566.0
+    }
+  },
+  {
+    "elapsed_s": 35.843,
+    "stage": "LOAD",
+    "available_gib": 6.88148,
+    "commit_headroom_gib": 6.58722,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3637.617,
+          "private_mib": 4617.18
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3648.809,
+      "private_sum_mib": 4619.02
+    }
+  },
+  {
+    "elapsed_s": 36.015,
+    "stage": "LOAD",
+    "available_gib": 6.9176,
+    "commit_headroom_gib": 6.62589,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3564.812,
+          "private_mib": 4534.832
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3576.004,
+      "private_sum_mib": 4536.672
+    }
+  },
+  {
+    "elapsed_s": 36.187,
+    "stage": "LOAD",
+    "available_gib": 6.8758,
+    "commit_headroom_gib": 6.58736,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3643.164,
+          "private_mib": 4617.18
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3654.356,
+      "private_sum_mib": 4619.02
+    }
+  },
+  {
+    "elapsed_s": 36.359,
+    "stage": "LOAD",
+    "available_gib": 6.91143,
+    "commit_headroom_gib": 6.62592,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3552.359,
+          "private_mib": 4516.785
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3563.551,
+      "private_sum_mib": 4518.625
+    }
+  },
+  {
+    "elapsed_s": 36.531,
+    "stage": "LOAD",
+    "available_gib": 6.86847,
+    "commit_headroom_gib": 6.57415,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3646.695,
+          "private_mib": 4617.18
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3657.887,
+      "private_sum_mib": 4619.02
+    }
+  },
+  {
+    "elapsed_s": 36.703,
+    "stage": "LOAD",
+    "available_gib": 6.92009,
+    "commit_headroom_gib": 6.64355,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3561.875,
+          "private_mib": 4539.824
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3573.067,
+      "private_sum_mib": 4541.664
+    }
+  },
+  {
+    "elapsed_s": 36.875,
+    "stage": "LOAD",
+    "available_gib": 6.8348,
+    "commit_headroom_gib": 6.5248,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3693.523,
+          "private_mib": 4700.207
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3704.715,
+      "private_sum_mib": 4702.047
+    }
+  },
+  {
+    "elapsed_s": 37.046,
+    "stage": "LOAD",
+    "available_gib": 6.68909,
+    "commit_headroom_gib": 6.33578,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3836.977,
+          "private_mib": 4861.523
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3848.169,
+      "private_sum_mib": 4863.363
+    }
+  },
+  {
+    "elapsed_s": 37.218,
+    "stage": "LOAD",
+    "available_gib": 6.54169,
+    "commit_headroom_gib": 6.17953,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3982.402,
+          "private_mib": 5021.84
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3993.594,
+      "private_sum_mib": 5023.68
+    }
+  },
+  {
+    "elapsed_s": 37.39,
+    "stage": "LOAD",
+    "available_gib": 6.41201,
+    "commit_headroom_gib": 6.02458,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4127.602,
+          "private_mib": 5214.215
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4138.794,
+      "private_sum_mib": 5216.055
+    }
+  },
+  {
+    "elapsed_s": 37.562,
+    "stage": "LOAD",
+    "available_gib": 6.26431,
+    "commit_headroom_gib": 5.83709,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4272.887,
+          "private_mib": 5374.527
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4284.079,
+      "private_sum_mib": 5376.367
+    }
+  },
+  {
+    "elapsed_s": 37.734,
+    "stage": "LOAD",
+    "available_gib": 6.11648,
+    "commit_headroom_gib": 5.68029,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4418.75,
+          "private_mib": 5534.84
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4429.942,
+      "private_sum_mib": 5536.68
+    }
+  },
+  {
+    "elapsed_s": 37.906,
+    "stage": "LOAD",
+    "available_gib": 5.98495,
+    "commit_headroom_gib": 5.52253,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4564.898,
+          "private_mib": 5728.215
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4576.09,
+      "private_sum_mib": 5730.055
+    }
+  },
+  {
+    "elapsed_s": 38.078,
+    "stage": "LOAD",
+    "available_gib": 5.88482,
+    "commit_headroom_gib": 5.40927,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4642.125,
+          "private_mib": 5800.898
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4653.317,
+      "private_sum_mib": 5802.738
+    }
+  },
+  {
+    "elapsed_s": 38.25,
+    "stage": "LOAD",
+    "available_gib": 5.8865,
+    "commit_headroom_gib": 5.41149,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4659.477,
+          "private_mib": 5818.938
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4670.669,
+      "private_sum_mib": 5820.778
+    }
+  },
+  {
+    "elapsed_s": 38.421,
+    "stage": "LOAD",
+    "available_gib": 5.90205,
+    "commit_headroom_gib": 5.43547,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4650.902,
+          "private_mib": 5799.148
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4662.094,
+      "private_sum_mib": 5800.988
+    }
+  },
+  {
+    "elapsed_s": 38.593,
+    "stage": "LOAD",
+    "available_gib": 5.89732,
+    "commit_headroom_gib": 5.43547,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4642.234,
+          "private_mib": 5787.867
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4653.426,
+      "private_sum_mib": 5789.707
+    }
+  },
+  {
+    "elapsed_s": 38.765,
+    "stage": "LOAD",
+    "available_gib": 5.90601,
+    "commit_headroom_gib": 5.45653,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4625.359,
+          "private_mib": 5761.793
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4636.551,
+      "private_sum_mib": 5763.633
+    }
+  },
+  {
+    "elapsed_s": 38.937,
+    "stage": "LOAD",
+    "available_gib": 5.8618,
+    "commit_headroom_gib": 5.40911,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4683.469,
+          "private_mib": 5819.445
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4694.661,
+      "private_sum_mib": 5821.285
+    }
+  },
+  {
+    "elapsed_s": 39.109,
+    "stage": "LOAD",
+    "available_gib": 5.85381,
+    "commit_headroom_gib": 5.37559,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4679.668,
+          "private_mib": 5842.492
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4690.86,
+      "private_sum_mib": 5844.332
+    }
+  },
+  {
+    "elapsed_s": 39.281,
+    "stage": "LOAD",
+    "available_gib": 5.8765,
+    "commit_headroom_gib": 5.40424,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4659.531,
+          "private_mib": 5815.418
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4670.723,
+      "private_sum_mib": 5817.258
+    }
+  },
+  {
+    "elapsed_s": 39.453,
+    "stage": "LOAD",
+    "available_gib": 5.87308,
+    "commit_headroom_gib": 5.41085,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4663.184,
+          "private_mib": 5815.418
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4674.376,
+      "private_sum_mib": 5817.258
+    }
+  },
+  {
+    "elapsed_s": 39.625,
+    "stage": "LOAD",
+    "available_gib": 5.87867,
+    "commit_headroom_gib": 5.41754,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4648.973,
+          "private_mib": 5794.855
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4660.165,
+      "private_sum_mib": 5796.695
+    }
+  },
+  {
+    "elapsed_s": 39.796,
+    "stage": "LOAD",
+    "available_gib": 5.83438,
+    "commit_headroom_gib": 5.37471,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4695.781,
+          "private_mib": 5843.496
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4706.973,
+      "private_sum_mib": 5845.336
+    }
+  },
+  {
+    "elapsed_s": 39.968,
+    "stage": "LOAD",
+    "available_gib": 5.83121,
+    "commit_headroom_gib": 5.37498,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4706.25,
+          "private_mib": 5845.754
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4717.442,
+      "private_sum_mib": 5847.594
+    }
+  },
+  {
+    "elapsed_s": 40.14,
+    "stage": "LOAD",
+    "available_gib": 5.86132,
+    "commit_headroom_gib": 5.41244,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4682.504,
+          "private_mib": 5816.418
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4693.696,
+      "private_sum_mib": 5818.258
+    }
+  },
+  {
+    "elapsed_s": 40.312,
+    "stage": "LOAD",
+    "available_gib": 5.8527,
+    "commit_headroom_gib": 5.40818,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4680.625,
+          "private_mib": 5809.648
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4691.817,
+      "private_sum_mib": 5811.488
+    }
+  },
+  {
+    "elapsed_s": 40.484,
+    "stage": "LOAD",
+    "available_gib": 5.84233,
+    "commit_headroom_gib": 5.39958,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4672.266,
+          "private_mib": 5793.852
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4683.458,
+      "private_sum_mib": 5795.692
+    }
+  },
+  {
+    "elapsed_s": 40.656,
+    "stage": "LOAD",
+    "available_gib": 5.81643,
+    "commit_headroom_gib": 5.37536,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4724.703,
+          "private_mib": 5845.758
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4735.895,
+      "private_sum_mib": 5847.598
+    }
+  },
+  {
+    "elapsed_s": 40.828,
+    "stage": "LOAD",
+    "available_gib": 5.81647,
+    "commit_headroom_gib": 5.35073,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4727.102,
+          "private_mib": 5877.82
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4738.294,
+      "private_sum_mib": 5879.66
+    }
+  },
+  {
+    "elapsed_s": 41.0,
+    "stage": "LOAD",
+    "available_gib": 5.85325,
+    "commit_headroom_gib": 5.42632,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4685.598,
+          "private_mib": 5825.914
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4696.79,
+      "private_sum_mib": 5827.754
+    }
+  },
+  {
+    "elapsed_s": 41.171,
+    "stage": "LOAD",
+    "available_gib": 5.82872,
+    "commit_headroom_gib": 5.36855,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4711.5,
+          "private_mib": 5853.0
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4722.692,
+      "private_sum_mib": 5854.84
+    }
+  },
+  {
+    "elapsed_s": 41.343,
+    "stage": "LOAD",
+    "available_gib": 5.79104,
+    "commit_headroom_gib": 5.3378,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4714.98,
+          "private_mib": 5853.0
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4726.172,
+      "private_sum_mib": 5854.84
+    }
+  },
+  {
+    "elapsed_s": 41.515,
+    "stage": "LOAD",
+    "available_gib": 5.84052,
+    "commit_headroom_gib": 5.3951,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4696.941,
+          "private_mib": 5825.914
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4708.133,
+      "private_sum_mib": 5827.754
+    }
+  },
+  {
+    "elapsed_s": 41.703,
+    "stage": "LOAD",
+    "available_gib": 5.84076,
+    "commit_headroom_gib": 5.39513,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4696.941,
+          "private_mib": 5825.914
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4708.133,
+      "private_sum_mib": 5827.754
+    }
+  },
+  {
+    "elapsed_s": 41.906,
+    "stage": "LOAD",
+    "available_gib": 5.84146,
+    "commit_headroom_gib": 5.39515,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4697.02,
+          "private_mib": 5825.914
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4708.212,
+      "private_sum_mib": 5827.754
+    }
+  },
+  {
+    "elapsed_s": 42.093,
+    "stage": "LOAD",
+    "available_gib": 5.84015,
+    "commit_headroom_gib": 5.39655,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4696.215,
+          "private_mib": 5824.664
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4707.407,
+      "private_sum_mib": 5826.504
+    }
+  },
+  {
+    "elapsed_s": 42.281,
+    "stage": "GATE_B_PASS",
+    "available_gib": 5.83894,
+    "commit_headroom_gib": 5.39563,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4696.715,
+          "private_mib": 5824.664
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4707.907,
+      "private_sum_mib": 5826.504
+    }
+  },
+  {
+    "elapsed_s": 42.453,
+    "stage": "PREDICT",
+    "available_gib": 6.62951,
+    "commit_headroom_gib": 6.31825,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3692.73,
+          "private_mib": 4752.512
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3703.922,
+      "private_sum_mib": 4754.352
+    }
+  },
+  {
+    "elapsed_s": 42.625,
+    "stage": "PREDICT",
+    "available_gib": 7.32952,
+    "commit_headroom_gib": 7.19198,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3141.129,
+          "private_mib": 3963.547
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3152.321,
+      "private_sum_mib": 3965.387
+    }
+  },
+  {
+    "elapsed_s": 42.796,
+    "stage": "PREDICT",
+    "available_gib": 7.34909,
+    "commit_headroom_gib": 7.21049,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3124.949,
+          "private_mib": 3944.07
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3136.141,
+      "private_sum_mib": 3945.91
+    }
+  },
+  {
+    "elapsed_s": 42.968,
+    "stage": "PREDICT",
+    "available_gib": 6.93829,
+    "commit_headroom_gib": 6.83296,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3552.297,
+          "private_mib": 4333.332
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3563.489,
+      "private_sum_mib": 4335.172
+    }
+  },
+  {
+    "elapsed_s": 43.171,
+    "stage": "PREDICT",
+    "available_gib": 6.93909,
+    "commit_headroom_gib": 6.83894,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3545.18,
+          "private_mib": 4328.496
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3556.372,
+      "private_sum_mib": 4330.336
+    }
+  },
+  {
+    "elapsed_s": 43.343,
+    "stage": "PREDICT",
+    "available_gib": 7.36429,
+    "commit_headroom_gib": 7.20418,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3225.555,
+          "private_mib": 4153.336
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3236.747,
+      "private_sum_mib": 4155.176
+    }
+  },
+  {
+    "elapsed_s": 43.531,
+    "stage": "PREDICT",
+    "available_gib": 7.17805,
+    "commit_headroom_gib": 6.92116,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3311.668,
+          "private_mib": 4230.559
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3322.86,
+      "private_sum_mib": 4232.399
+    }
+  },
+  {
+    "elapsed_s": 43.718,
+    "stage": "PREDICT",
+    "available_gib": 7.03347,
+    "commit_headroom_gib": 6.71569,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3457.965,
+          "private_mib": 4453.684
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3469.157,
+      "private_sum_mib": 4455.524
+    }
+  },
+  {
+    "elapsed_s": 43.89,
+    "stage": "PREDICT",
+    "available_gib": 6.68838,
+    "commit_headroom_gib": 6.30812,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3846.012,
+          "private_mib": 5032.258
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3857.204,
+      "private_sum_mib": 5034.098
+    }
+  },
+  {
+    "elapsed_s": 44.062,
+    "stage": "PREDICT",
+    "available_gib": 6.43214,
+    "commit_headroom_gib": 6.02667,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4032.77,
+          "private_mib": 5128.516
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4043.962,
+      "private_sum_mib": 5130.356
+    }
+  },
+  {
+    "elapsed_s": 44.25,
+    "stage": "PREDICT",
+    "available_gib": 6.46618,
+    "commit_headroom_gib": 6.0597,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4052.574,
+          "private_mib": 5159.078
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4063.766,
+      "private_sum_mib": 5160.918
+    }
+  },
+  {
+    "elapsed_s": 44.468,
+    "stage": "PREDICT",
+    "available_gib": 6.76672,
+    "commit_headroom_gib": 6.34273,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3583.18,
+          "private_mib": 4838.445
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3594.372,
+      "private_sum_mib": 4840.285
+    }
+  },
+  {
+    "elapsed_s": 44.64,
+    "stage": "PREDICT",
+    "available_gib": 6.96683,
+    "commit_headroom_gib": 6.56097,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3708.406,
+          "private_mib": 4904.078
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3719.598,
+      "private_sum_mib": 4905.918
+    }
+  },
+  {
+    "elapsed_s": 44.828,
+    "stage": "PREDICT",
+    "available_gib": 6.40005,
+    "commit_headroom_gib": 6.02899,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4115.723,
+          "private_mib": 5192.641
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4126.915,
+      "private_sum_mib": 5194.481
+    }
+  },
+  {
+    "elapsed_s": 45.031,
+    "stage": "PREDICT",
+    "available_gib": 6.55859,
+    "commit_headroom_gib": 6.09169,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4027.336,
+          "private_mib": 5096.453
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4038.528,
+      "private_sum_mib": 5098.293
+    }
+  },
+  {
+    "elapsed_s": 45.203,
+    "stage": "PREDICT",
+    "available_gib": 6.65276,
+    "commit_headroom_gib": 6.28078,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 3877.922,
+          "private_mib": 4898.133
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 3889.114,
+      "private_sum_mib": 4899.973
+    }
+  },
+  {
+    "elapsed_s": 45.421,
+    "stage": "PREDICT",
+    "available_gib": 6.10701,
+    "commit_headroom_gib": 5.78434,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4317.367,
+          "private_mib": 5220.766
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4328.559,
+      "private_sum_mib": 5222.606
+    }
+  },
+  {
+    "elapsed_s": 45.656,
+    "stage": "PREDICT",
+    "available_gib": 5.78687,
+    "commit_headroom_gib": 5.52155,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 4753.457,
+          "private_mib": 5680.359
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 4764.649,
+      "private_sum_mib": 5682.199
+    }
+  },
+  {
+    "elapsed_s": 45.843,
+    "stage": "PREDICT",
+    "available_gib": 5.04595,
+    "commit_headroom_gib": 3.78782,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 5591.945,
+          "private_mib": 7456.145
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 5603.137,
+      "private_sum_mib": 7457.985
+    }
+  },
+  {
+    "elapsed_s": 46.015,
+    "stage": "PREDICT",
+    "available_gib": 4.47906,
+    "commit_headroom_gib": 3.78963,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 6154.445,
+          "private_mib": 7456.145
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 6165.637,
+      "private_sum_mib": 7457.985
+    }
+  },
+  {
+    "elapsed_s": 46.203,
+    "stage": "PREDICT",
+    "available_gib": 4.02752,
+    "commit_headroom_gib": 2.12087,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 6648.605,
+          "private_mib": 9167.984
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 6659.797,
+      "private_sum_mib": 9169.824
+    }
+  },
+  {
+    "elapsed_s": 46.39,
+    "stage": "PREDICT",
+    "available_gib": 3.41913,
+    "commit_headroom_gib": 2.12536,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 7272.668,
+          "private_mib": 9167.984
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 7283.86,
+      "private_sum_mib": 9169.824
+    }
+  },
+  {
+    "elapsed_s": 46.562,
+    "stage": "PREDICT",
+    "available_gib": 2.8288,
+    "commit_headroom_gib": 2.12656,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 7885.293,
+          "private_mib": 9167.984
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 7896.485,
+      "private_sum_mib": 9169.824
+    }
+  },
+  {
+    "elapsed_s": 46.75,
+    "stage": "PREDICT",
+    "available_gib": 2.22477,
+    "commit_headroom_gib": 0.4569,
+    "tree": {
+      "root_alive": true,
+      "processes": [
+        {
+          "name": "python.exe",
+          "rss_mib": 4.102,
+          "private_mib": 0.703
+        },
+        {
+          "name": "conhost.exe",
+          "rss_mib": 7.09,
+          "private_mib": 1.137
+        },
+        {
+          "name": "python.exe",
+          "rss_mib": 8504.078,
+          "private_mib": 10879.328
+        }
+      ],
+      "tracked_count": 3,
+      "unreadable_count": 0,
+      "rss_sum_mib": 8515.27,
+      "private_sum_mib": 10881.168
+    }
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "schema_note": "Human/form-ready metadata record, NOT an API-validated request. Author reports a Zenodo DRAFT with reserved DOI; ZIP not yet uploaded, save-with-file and Publish not confirmed.",
+  "resource_type": "Other",
+  "descriptive_resource_label": "Technical Record",
+  "title": "Boltz-2 CPU Execution and Diagnostic Boundaries: A Windows 11 Technical Record",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Miyazaki, Sho",
+      "affiliation": "Independent researcher, Tokyo, Japan"
+    }
+  ],
+  "description": "A bounded Technical Record of two fixed Boltz-2 v2.2.1 CPU inference attempts on a personal Windows 11 computer with approximately 16 GiB RAM. Both the standard attempt and the chunking-enabled attempt ended MEMORY_STOP, without a successful final structure or confidence output. The archive provides the English README, two figures, three main tables, curated historical logs, provenance, corrections and offline read-only verification code. Isolated operator and test-only numerical checks, synthetic traces and a 96 MiB Windows small-worker regression provide limited evidence only. Real-model stage diagnostics were not run; the final feasibility decision was NO-GO / research STOP. Successful inference, end-to-end memory reduction, full-model numerical equivalence, real-model safety and independent scientific MSC are not established. Original prose/figures/data curation are CC BY 4.0; original verification/figure code is MIT; see LICENSE_SCOPE.md. No specific funding was received for this independent study. The author declares no competing interests. Personal resources only; no institutional research resources or funding. AI assistance and author responsibility are disclosed in docs/AI_DISCLOSURE.md.",
+  "keywords": [
+    "Boltz-2",
+    "CPU-only inference",
+    "memory monitoring",
+    "Windows Job Objects",
+    "diagnostic instrumentation",
+    "failure analysis",
+    "reproducibility"
+  ],
+  "licenses": [
+    {
+      "id": "CC-BY-4.0",
+      "scope": "Original prose, figures, tables and author-origin data/log curation"
+    },
+    {
+      "id": "MIT",
+      "scope": "New verification and figure-generation Python code"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23910491",
+      "scheme": "doi",
+      "relation": "references"
+    }
+  ],
+  "publication_date": null,
+  "doi": "10.5281/zenodo.23934898",
+  "release_commit": null,
+  "state": "ZENODO DRAFT; DOI RESERVED; FILE UPLOAD PENDING; NOT PUBLISHED",
+  "license_scope_authority": "LICENSE_SCOPE.md; licenses[] are file-scoped deposit-form instructions, not an OR dual-license grant for every file.",
+  "chunking_execution_caveat": "Local adapter application was recorded before checkpoint load; actual entry into the patched MSA-module boundary during full-model inference was not traced.",
+  "doi_status": "RESERVED IN UNPUBLISHED ZENODO DRAFT (author-reported); NOT published or independently resolved",
+  "copyright": "Copyright © 2026 Sho Miyazaki for author-original materials. Third-party materials retain their respective rights. Licensing is file-specific: CC BY 4.0 applies to author-original prose, figures, and eligible curated materials; MIT applies to author-original code. See LICENSE_SCOPE.md and docs/RIGHTS_AND_ATTRIBUTION.md for details."
+}

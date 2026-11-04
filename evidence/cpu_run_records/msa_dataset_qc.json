@@ -1,0 +1,250 @@
+{
+  "version": "C01_REAL_DATALOADER_MSA_QC_v1",
+  "boltz": "2.2.1",
+  "msa_sha256": {
+    "A": "81e61b552bcecd44498c2fa3ee2c41a69a1c42016f08d09cb2d615a83a7b0320",
+    "B": "5637c68e4effb749bea67df70d93afdfa993a855e3076fdfee327ceb60841c72"
+  },
+  "yaml_sha256": "4d98d51a5dc616f5d13b6abde9a4d04be719d91981b3573156f1a2b953daa128",
+  "caps_scan_type": "synthetic-token + official parse_csv and construct_paired_msa, not real DataLoader",
+  "caps": [
+    {
+      "cap": 128,
+      "parse_rows": {
+        "A": 128,
+        "B": 128
+      },
+      "constructed_rows": 128,
+      "fully_paired_rows": 123,
+      "partially_paired_rows": 0,
+      "paired_fraction": 0.9609375,
+      "msa_token_bytes": 269312,
+      "deletion_token_bytes": 134656,
+      "paired_token_bytes": 134656
+    },
+    {
+      "cap": 256,
+      "parse_rows": {
+        "A": 256,
+        "B": 256
+      },
+      "constructed_rows": 256,
+      "fully_paired_rows": 249,
+      "partially_paired_rows": 0,
+      "paired_fraction": 0.97265625,
+      "msa_token_bytes": 538624,
+      "deletion_token_bytes": 269312,
+      "paired_token_bytes": 269312
+    },
+    {
+      "cap": 512,
+      "parse_rows": {
+        "A": 512,
+        "B": 512
+      },
+      "constructed_rows": 512,
+      "fully_paired_rows": 493,
+      "partially_paired_rows": 0,
+      "paired_fraction": 0.962890625,
+      "msa_token_bytes": 1077248,
+      "deletion_token_bytes": 538624,
+      "paired_token_bytes": 538624
+    },
+    {
+      "cap": 1024,
+      "parse_rows": {
+        "A": 1024,
+        "B": 1024
+      },
+      "constructed_rows": 1024,
+      "fully_paired_rows": 966,
+      "partially_paired_rows": 0,
+      "paired_fraction": 0.943359375,
+      "msa_token_bytes": 2154496,
+      "deletion_token_bytes": 1077248,
+      "paired_token_bytes": 1077248
+    },
+    {
+      "cap": 2048,
+      "parse_rows": {
+        "A": 2048,
+        "B": 2048
+      },
+      "constructed_rows": 2048,
+      "fully_paired_rows": 1891,
+      "partially_paired_rows": 0,
+      "paired_fraction": 0.92333984375,
+      "msa_token_bytes": 4308992,
+      "deletion_token_bytes": 2154496,
+      "paired_token_bytes": 2154496
+    },
+    {
+      "cap": 4096,
+      "parse_rows": {
+        "A": 4096,
+        "B": 4096
+      },
+      "constructed_rows": 4096,
+      "fully_paired_rows": 2539,
+      "partially_paired_rows": 0,
+      "paired_fraction": 0.619873046875,
+      "msa_token_bytes": 8617984,
+      "deletion_token_bytes": 4308992,
+      "paired_token_bytes": 4308992
+    },
+    {
+      "cap": 8192,
+      "parse_rows": {
+        "A": 6149,
+        "B": 5395
+      },
+      "constructed_rows": 8192,
+      "fully_paired_rows": 2539,
+      "partially_paired_rows": 0,
+      "paired_fraction": 0.3099365234375,
+      "msa_token_bytes": 17235968,
+      "deletion_token_bytes": 8617984,
+      "paired_token_bytes": 8617984
+    }
+  ],
+  "real_dataset": {
+    "type": "Boltz2 PredictionDataset.__getitem__ (not checkpoint/model)",
+    "features": [
+      "msa",
+      "msa_paired",
+      "msa_mask",
+      "profile",
+      "has_deletion",
+      "deletion_value",
+      "deletion_mean"
+    ],
+    "seed_a": {
+      "msa": {
+        "sha256": "a219d746d19ded811133d11fbb6949c62e4d54397855af378cfde11fdacf9191",
+        "shape": [
+          6634,
+          263
+        ],
+        "dtype": "int64"
+      },
+      "msa_paired": {
+        "sha256": "7db759366a524292a536b764aa5251391ca5f5b804c7a54177bd928e0192915c",
+        "shape": [
+          6634,
+          263
+        ],
+        "dtype": "float32"
+      },
+      "msa_mask": {
+        "sha256": "260c6c9dc6afcf3adab9ec32aa93b0c28814453a247054349a9c7ef07ec1a584",
+        "shape": [
+          6634,
+          263
+        ],
+        "dtype": "int64"
+      },
+      "profile": {
+        "sha256": "ff281ebb2ca17066774739ff0f6d9625f496a6f2f963ab019124a1a61a44c79f",
+        "shape": [
+          263,
+          33
+        ],
+        "dtype": "float32"
+      },
+      "has_deletion": {
+        "sha256": "c02282b2ce978be27177d7f6cdfc4c7cc1b624735b93080c66bfedf0cc26ef7e",
+        "shape": [
+          6634,
+          263
+        ],
+        "dtype": "bool"
+      },
+      "deletion_value": {
+        "sha256": "d71f412bdabb2a786414073cc27bf81fac623897884451479c91a91b79e25271",
+        "shape": [
+          6634,
+          263
+        ],
+        "dtype": "float32"
+      },
+      "deletion_mean": {
+        "sha256": "0057b21842d438ffc99995602f72ecc65a7306bb845c4f14c6599ee2b82adcba",
+        "shape": [
+          263
+        ],
+        "dtype": "float32"
+      }
+    },
+    "seed_b": {
+      "msa": {
+        "sha256": "a219d746d19ded811133d11fbb6949c62e4d54397855af378cfde11fdacf9191",
+        "shape": [
+          6634,
+          263
+        ],
+        "dtype": "int64"
+      },
+      "msa_paired": {
+        "sha256": "7db759366a524292a536b764aa5251391ca5f5b804c7a54177bd928e0192915c",
+        "shape": [
+          6634,
+          263
+        ],
+        "dtype": "float32"
+      },
+      "msa_mask": {
+        "sha256": "260c6c9dc6afcf3adab9ec32aa93b0c28814453a247054349a9c7ef07ec1a584",
+        "shape": [
+          6634,
+          263
+        ],
+        "dtype": "int64"
+      },
+      "profile": {
+        "sha256": "ff281ebb2ca17066774739ff0f6d9625f496a6f2f963ab019124a1a61a44c79f",
+        "shape": [
+          263,
+          33
+        ],
+        "dtype": "float32"
+      },
+      "has_deletion": {
+        "sha256": "c02282b2ce978be27177d7f6cdfc4c7cc1b624735b93080c66bfedf0cc26ef7e",
+        "shape": [
+          6634,
+          263
+        ],
+        "dtype": "bool"
+      },
+      "deletion_value": {
+        "sha256": "d71f412bdabb2a786414073cc27bf81fac623897884451479c91a91b79e25271",
+        "shape": [
+          6634,
+          263
+        ],
+        "dtype": "float32"
+      },
+      "deletion_mean": {
+        "sha256": "0057b21842d438ffc99995602f72ecc65a7306bb845c4f14c6599ee2b82adcba",
+        "shape": [
+          263
+        ],
+        "dtype": "float32"
+      }
+    },
+    "invariant": {
+      "msa": true,
+      "msa_paired": true,
+      "msa_mask": true,
+      "profile": true,
+      "has_deletion": true,
+      "deletion_value": true,
+      "deletion_mean": true
+    },
+    "result": "PASS"
+  },
+  "seed_pair": [
+    101,
+    202
+  ]
+}

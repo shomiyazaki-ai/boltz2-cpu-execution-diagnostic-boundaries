@@ -1,0 +1,43 @@
+{
+  "decision": "NO_GO_TO_B2_UNDER_FIXED_STOP_RULE",
+  "reason": "No evidence-qualified job cap simultaneously demonstrated to protect OS margins and reach informative post-Gate-B diagnostic boundary; existing S2 is disarmed and diagnostic attach occurs after checkpoint load",
+  "evidence": [
+    {
+      "run": "C01_Phase1_Seed101_Real_001.zip",
+      "preflight_headroom_gib": 11.0393,
+      "gate_b_commit_headroom_gib": 5.39557,
+      "gate_b_private_tree_gib": 5.6899,
+      "gate_b_available_gib": 5.84011,
+      "last_commit_headroom_gib": 0.4569,
+      "last_available_gib": 2.22477,
+      "last_private_tree_gib": 10.6261,
+      "last_rss_tree_gib": 8.3157,
+      "result": "MEMORY_STOP",
+      "sha256": "9f67294ccd3335444228457774789f38167883aa29ca6a6952493c6f6048e156"
+    },
+    {
+      "run": "C01_Phase1_Seed101_Chunked_Real_001.zip",
+      "preflight_headroom_gib": 10.85878,
+      "gate_b_commit_headroom_gib": 5.25733,
+      "gate_b_private_tree_gib": 5.6906,
+      "gate_b_available_gib": 5.55482,
+      "last_commit_headroom_gib": 0.3876,
+      "last_available_gib": 1.87646,
+      "last_private_tree_gib": 10.6211,
+      "last_rss_tree_gib": 8.4752,
+      "result": "MEMORY_STOP",
+      "sha256": "5497a01b3e2fd98d3f26df9f1f50d7080bd775e35028332ea39ecdd3152d6b83"
+    }
+  ],
+  "b1_scope": "read-only",
+  "s3_small_worker_limit": "96 MiB",
+  "s3_outcome": "small-worker functional PASS, not multi-GiB safety proof",
+  "candidate_formula": "cap=J0+H0-R-U (planning only)",
+  "illustrative_at_s3_headroom_9_66857_R3_U1_J0_0": "5.66857 GiB, below observed ~5.690 GiB Gate B process tree private bytes; illustrative assumptions only",
+  "future_reconsideration_requirements": [
+    "independently provisioned larger available commit or RAM",
+    "tested early-start trace boundaries and OS reservation policy",
+    "production diagnostic launcher end-to-end nonpredict integration tests",
+    "job commit usage vs process private bytes reconciliation"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "boltz_version": "2.2.1",
+  "chains": {
+    "A": {
+      "ambiguous_character_occurrences": {
+        "X": 86,
+        "x": 1
+      },
+      "file": "MPC2_O95563_frozen.csv",
+      "post_parse_paired": 2769,
+      "post_parse_rows": 6149,
+      "post_parse_unpaired": 3380,
+      "raw_key_count": 3011,
+      "raw_key_unique": 3011,
+      "raw_paired": 3011,
+      "raw_rows": 8116,
+      "raw_unpaired": 5105,
+      "removed_duplicates": 1967,
+      "sha256": "81e61b552bcecd44498c2fa3ee2c41a69a1c42016f08d09cb2d615a83a7b0320"
+    },
+    "B": {
+      "ambiguous_character_occurrences": {
+        "X": 110,
+        "x": 1
+      },
+      "file": "MPC1L_P0DKB6_frozen.csv",
+      "post_parse_paired": 2656,
+      "post_parse_rows": 5395,
+      "post_parse_unpaired": 2739,
+      "raw_key_count": 3011,
+      "raw_key_unique": 3011,
+      "raw_paired": 3011,
+      "raw_rows": 7149,
+      "raw_unpaired": 4138,
+      "removed_duplicates": 1754,
+      "sha256": "5637c68e4effb749bea67df70d93afdfa993a855e3076fdfee327ceb60841c72"
+    }
+  },
+  "max_msa_seqs_at_prediction": "NOT_FIXED_YET",
+  "msa_pairing_strategy": "greedy",
+  "msa_server_url": "https://api.colabfold.com",
+  "paired_only_A_post_parse": 231,
+  "paired_only_B_post_parse": 118,
+  "paired_shared_keys_post_parse": 2538,
+  "qc_sha256": "7ac41795bac7ef273732b42f9af55068a54dfb4cfff6777d46b4ee0e872a3c46",
+  "source_directory": "[LOCAL_PATH_REDACTED]",
+  "source_failed_status": {
+    "error": "A: unsupported residue row 243",
+    "status": "STOP",
+    "type": "ValueError"
+  },
+  "status": "PASS_OFFLINE_RESCUE",
+  "subsample_msa": false,
+  "yaml_sha256": "4d98d51a5dc616f5d13b6abde9a4d04be719d91981b3573156f1a2b953daa128"
+}

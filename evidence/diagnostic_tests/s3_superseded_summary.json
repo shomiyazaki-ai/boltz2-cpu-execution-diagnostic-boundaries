@@ -1,0 +1,172 @@
+{
+  "version": "C01_S3_DYNAMIC_V1",
+  "checkpoint_loaded": false,
+  "prediction_performed": false,
+  "job_limit_exercised": true,
+  "preflight": {
+    "available_gib": 9.05344,
+    "commit_headroom_gib": 9.68139
+  },
+  "postflight": {
+    "available_gib": 9.04537,
+    "commit_headroom_gib": 9.67808
+  },
+  "checks": {
+    "source_c01_chunking_patch.py": true,
+    "source_c01_diagnostic_trace.py": true,
+    "source_c01_job_object.py": true,
+    "source_c01_output_qc.py": true,
+    "source_c01_pid_tree_monitor_v2.py": true,
+    "source_c01_predict_worker.py": true,
+    "source_c01_real_supervisor.py": true,
+    "source_c01_s2_diagnostic_contract.py": true,
+    "source_c01_s2_local_audit.py": true,
+    "source_c01_s3_controller.py": true,
+    "source_c01_s3_windows_test.py": true,
+    "source_c01_s3_worker.py": true,
+    "supervisor_disarmed": true,
+    "worker_disarmed": true,
+    "reject_success_without_events": true,
+    "reject_partial_trace": true,
+    "available_preflight_2gib": true,
+    "commit_preflight_2gib": true,
+    "case_normal": true,
+    "case_overlimit": true,
+    "case_parent_kill": true,
+    "case_exception": true,
+    "case_unlimited": true
+  },
+  "cases": {
+    "normal": {
+      "pass": true,
+      "controller_exit": 0,
+      "setup": {
+        "case": "normal",
+        "cap_bytes": 100663296,
+        "readback": {
+          "kill_on_close": true,
+          "job_memory_enabled": true,
+          "job_memory_limit_bytes": 100663296,
+          "peak_job_memory_used_bytes": 495616
+        },
+        "membership_confirmed": true,
+        "assignment_before_resume": true
+      },
+      "completed": {
+        "case": "normal",
+        "worker_exitcode": 0,
+        "readback_after": {
+          "kill_on_close": true,
+          "job_memory_enabled": true,
+          "job_memory_limit_bytes": 100663296,
+          "peak_job_memory_used_bytes": 13709312
+        }
+      },
+      "events": 3,
+      "last_event": "WORKER_EXCEPTION"
+    },
+    "overlimit": {
+      "pass": true,
+      "controller_exit": 0,
+      "setup": {
+        "case": "overlimit",
+        "cap_bytes": 100663296,
+        "readback": {
+          "kill_on_close": true,
+          "job_memory_enabled": true,
+          "job_memory_limit_bytes": 100663296,
+          "peak_job_memory_used_bytes": 495616
+        },
+        "membership_confirmed": true,
+        "assignment_before_resume": true
+      },
+      "completed": {
+        "case": "overlimit",
+        "worker_exitcode": 42,
+        "readback_after": {
+          "kill_on_close": true,
+          "job_memory_enabled": true,
+          "job_memory_limit_bytes": 100663296,
+          "peak_job_memory_used_bytes": 101863424
+        }
+      },
+      "events": 12,
+      "last_event": "MEMORY_ERROR_OBSERVED"
+    },
+    "parent_kill": {
+      "pass": true,
+      "ready": true,
+      "child_gone_after_parent_kill": true,
+      "controller_exit": 1,
+      "setup": {
+        "case": "parent_kill",
+        "cap_bytes": 100663296,
+        "readback": {
+          "kill_on_close": true,
+          "job_memory_enabled": true,
+          "job_memory_limit_bytes": 100663296,
+          "peak_job_memory_used_bytes": 495616
+        },
+        "membership_confirmed": true,
+        "assignment_before_resume": true
+      }
+    },
+    "exception": {
+      "pass": true,
+      "controller_exit": 0,
+      "setup": {
+        "case": "exception",
+        "cap_bytes": 100663296,
+        "readback": {
+          "kill_on_close": true,
+          "job_memory_enabled": true,
+          "job_memory_limit_bytes": 100663296,
+          "peak_job_memory_used_bytes": 499712
+        },
+        "membership_confirmed": true,
+        "assignment_before_resume": true
+      },
+      "completed": {
+        "case": "exception",
+        "worker_exitcode": 1,
+        "readback_after": {
+          "kill_on_close": true,
+          "job_memory_enabled": true,
+          "job_memory_limit_bytes": 100663296,
+          "peak_job_memory_used_bytes": 9433088
+        }
+      },
+      "events": 3,
+      "last_event": "WORKER_EXCEPTION"
+    },
+    "unlimited": {
+      "pass": true,
+      "controller_exit": 0,
+      "setup": {
+        "case": "unlimited",
+        "cap_bytes": null,
+        "readback": {
+          "kill_on_close": true,
+          "job_memory_enabled": false,
+          "job_memory_limit_bytes": null,
+          "peak_job_memory_used_bytes": 499712
+        },
+        "membership_confirmed": true,
+        "assignment_before_resume": true
+      },
+      "completed": {
+        "case": "unlimited",
+        "worker_exitcode": 0,
+        "readback_after": {
+          "kill_on_close": true,
+          "job_memory_enabled": false,
+          "job_memory_limit_bytes": null,
+          "peak_job_memory_used_bytes": 13656064
+        }
+      },
+      "events": 3,
+      "last_event": "WORKER_EXCEPTION"
+    }
+  },
+  "all_pass": true
+}

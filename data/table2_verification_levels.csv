@@ -1,0 +1,9 @@
+level,recorded_result,supports,does_not_establish
+Full-model standard,MEMORY_STOP,Failure boundary for this fixed attempt,Successful prediction; allocator OOM cause; universal RAM need
+Full-model chunking-enabled configuration,MEMORY_STOP,Adapter applied before checkpoint load; inference start recorded,Chunked module entry; superiority; whole-model memory reduction
+Isolated operator tests (Step 3),16 COMPLETE,Saved child end RSS and zero-initialized output checks,Operator peak; nontrivial numerical equivalence; full-size standard control
+Test-only numerical tests (Step 4),6 numeric and 3 probe PASS records,Small deterministic nonzero-weight comparisons; intended branch arguments,Checkpoint-weight or full-model equivalence
+Synthetic diagnostics,26 complete-trace events; exception/incomplete and abrupt examples,Saved event-contract and completion boundaries,Real-model stage diagnosis or dominant allocator
+Small-worker regression (final S3 v1.2),5 recorded case PASS flags,96 MiB readback; denial/normal/abnormal/cleanup examples,Strict counter cap; multi-GiB model/OS safety
+Real-model stage diagnostics (internal ③-C),NOT RUN,Scope boundary only,Any real-model diagnostic observation
+Final feasibility review (B1),NO-GO / STOP,No evidence-qualified operating window justified proceeding,Impossibility on all 16 GiB PCs; absence of a theoretical safe cap

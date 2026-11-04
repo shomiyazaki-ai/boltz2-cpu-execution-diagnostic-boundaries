@@ -1,0 +1,66 @@
+{
+  "source_name": "c01_step4_windows_test.py",
+  "lines": [
+    {
+      "line": 20,
+      "text": " from boltz.model.layers.outer_product_mean import OuterProductMean"
+    },
+    {
+      "line": 21,
+      "text": " torch.manual_seed(10001+s*17+n)"
+    },
+    {
+      "line": 22,
+      "text": " x=torch.randn((1,s,n,64),dtype=torch.float32)"
+    },
+    {
+      "line": 24,
+      "text": " else: mod=OuterProductMean(c_in=64,c_hidden=32,c_out=128).eval();mask=torch.ones((1,s,n),dtype=torch.float32); cs=4"
+    },
+    {
+      "line": 25,
+      "text": " # Official final_init_ zeroes the last projection; replace test-only final weights"
+    },
+    {
+      "line": 26,
+      "text": " # with deterministic nonzero values to avoid a trivial zero-output parity check."
+    },
+    {
+      "line": 27,
+      "text": " with torch.no_grad():"
+    },
+    {
+      "line": 28,
+      "text": "  if op=='transition': torch.nn.init.normal_(mod.fc3.weight,mean=0.,std=0.02)"
+    },
+    {
+      "line": 29,
+      "text": "  else:"
+    },
+    {
+      "line": 30,
+      "text": "   torch.nn.init.normal_(mod.proj_o.weight,mean=0.,std=0.02)"
+    },
+    {
+      "line": 31,
+      "text": "   torch.nn.init.normal_(mod.proj_o.bias,mean=0.,std=0.01)"
+    },
+    {
+      "line": 32,
+      "text": " state=torch.random.get_rng_state().clone()"
+    },
+    {
+      "line": 42,
+      "text": "  valid=denom>1e-6"
+    },
+    {
+      "line": 43,
+      "text": "  result={'operator':op,'S':s,'N':n,'shape_equal':tuple(y.shape)==tuple(yc.shape),'shape':list(y.shape), 'max_abs':float(delta.max()),'rmse':float(torch.sqrt((delta**2).mean())), 'max_relative_where_above_1e-6':float((delta[valid]/denom[valid]).max()) if bool(valid.any()) else None,'finite':bool(torch.isfinite(y).all() and torch.isfinite(yc).all()),'allclose_1e-5':bool(torch.allclose(y,yc,atol=1e-5,rtol=1e-5)),'rng_std_unchanged':bool(torch.equal(state,state_after_std)),'rng_chunk_unchanged':bool(torch.equal(state_after_std,state_after_chunk))}"
+    },
+    {
+      "line": 44,
+      "text": " return result"
+    }
+  ],
+  "scope": "Static inspection only; not executable test code; upstream implementations are referenced, not copied."
+}

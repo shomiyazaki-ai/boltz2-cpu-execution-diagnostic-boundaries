@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="892.8pt" height="540pt" viewBox="0 0 892.8 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 892.8 540 
+L 892.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 32.4 195.12 
+L 424.8 195.12 
+Q 433.44 195.12 433.44 186.48 
+L 433.44 96.48 
+Q 433.44 87.84 424.8 87.84 
+L 32.4 87.84 
+Q 23.76 87.84 23.76 96.48 
+L 23.76 186.48 
+Q 23.76 195.12 32.4 195.12 
+z
+" clip-path="url(#p537b282277)" style="fill: #eaf1f7; stroke: #376281; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 468 195.12 
+L 860.4 195.12 
+Q 869.04 195.12 869.04 186.48 
+L 869.04 96.48 
+Q 869.04 87.84 860.4 87.84 
+L 468 87.84 
+Q 459.36 87.84 459.36 96.48 
+L 459.36 186.48 
+Q 459.36 195.12 468 195.12 
+z
+" clip-path="url(#p537b282277)" style="fill: #eaf1f7; stroke: #376281; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 32.4 353.52 
+L 288.72 353.52 
+Q 297.36 353.52 297.36 344.88 
+L 297.36 248.4 
+Q 297.36 239.76 288.72 239.76 
+L 32.4 239.76 
+Q 23.76 239.76 23.76 248.4 
+L 23.76 344.88 
+Q 23.76 353.52 32.4 353.52 
+z
+" clip-path="url(#p537b282277)" style="fill: #edf4f2; stroke: #3c6e60; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 331.2 353.52 
+L 572.4 353.52 
+Q 581.04 353.52 581.04 344.88 
+L 581.04 248.4 
+Q 581.04 239.76 572.4 239.76 
+L 331.2 239.76 
+Q 322.56 239.76 322.56 248.4 
+L 322.56 344.88 
+Q 322.56 353.52 331.2 353.52 
+z
+" clip-path="url(#p537b282277)" style="fill: #edf4f2; stroke: #3c6e60; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 615.6 353.52 
+L 860.4 353.52 
+Q 869.04 353.52 869.04 344.88 
+L 869.04 248.4 
+Q 869.04 239.76 860.4 239.76 
+L 615.6 239.76 
+Q 606.96 239.76 606.96 248.4 
+L 606.96 344.88 
+Q 606.96 353.52 615.6 353.52 
+z
+" clip-path="url(#p537b282277)" style="fill: #edf4f2; stroke: #3c6e60; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 32.4 498.24 
+L 424.8 498.24 
+Q 433.44 498.24 433.44 489.6 
+L 433.44 407.52 
+Q 433.44 398.88 424.8 398.88 
+L 32.4 398.88 
+Q 23.76 398.88 23.76 407.52 
+L 23.76 489.6 
+Q 23.76 498.24 32.4 498.24 
+z
+" clip-path="url(#p537b282277)" style="fill: #f2f2f2; stroke: #74787c; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 468 498.24 
+L 860.4 498.24 
+Q 869.04 498.24 869.04 489.6 
+L 869.04 407.52 
+Q 869.04 398.88 860.4 398.88 
+L 468 398.88 
+Q 459.36 398.88 459.36 407.52 
+L 459.36 489.6 
+Q 459.36 498.24 468 498.24 
+z
+" clip-path="url(#p537b282277)" style="fill: #fff0db; stroke: #a56920; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 462.396533 449.28 
+Q 447.478988 449.28 434.12669 449.28 
+" clip-path="url(#p537b282277)" style="fill: none; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #a56920; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 439.32669 451.88 
+L 434.12669 449.28 
+L 439.32669 446.68 
+z
+" clip-path="url(#p537b282277)" style="fill: #a56920; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #a56920; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17394d" x="25.2" y="28.8" transform="rotate(-0 25.2 28.8)">Evidence and execution boundaries</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53646c" x="25.2" y="56.16" transform="rotate(-0 25.2 56.16)">Frozen Windows 11 · CPU only · ~16 GiB RAM · Boltz-2 v2.2.1</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #376281" x="43.2" y="120.67125" transform="rotate(-0 43.2 120.67125)">Real inference · standard</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(43.2 150.004062)">MEMORY_STOP</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(43.2 165.135078)">No final structure or confidence</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #376281" x="478.8" y="120.624375" transform="rotate(-0 478.8 120.624375)">Real inference · chunking enabled</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(478.8 150.004062)">MEMORY_STOP</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(478.8 165.135078)">No final structure or confidence</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #3c6e60" x="28.8" y="223.2" transform="rotate(-0 28.8 223.2)">Separate limited checks — historical observations, no real-model promotion</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #3c6e60" x="43.2" y="272.59125" transform="rotate(-0 43.2 272.59125)">Isolated operators</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(43.2 302.118281)">Step 3: 16 COMPLETE</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(43.2 316.943359)">Step 4: 6 numeric / 3 probes</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(43.2 331.768438)">Step 4 uses test-only weights</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #3c6e60" x="342" y="272.544375" transform="rotate(-0 342 272.544375)">Synthetic tracing</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(342 302.118281)">Complete / exception / abrupt</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(342 316.943359)">Event-contract checks</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(342 331.768438)">Synthetic modules</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #3c6e60" x="626.4" y="272.59125" transform="rotate(-0 626.4 272.59125)">Windows small workers</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(626.4 302.118281)">Final S3 v1.2: 96 MiB cap</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(626.4 316.943359)">Normal / denial / cleanup</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(626.4 331.768438)">No full-model safety proof</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #74787c" x="43.2" y="431.664375" transform="rotate(-0 43.2 431.664375)">Real-model stage diagnostics</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #243a43" x="43.2" y="461.238281" transform="rotate(-0 43.2 461.238281)">NOT RUN (internal diagnostic ③-C)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a56920" x="478.8" y="431.664375" transform="rotate(-0 478.8 431.664375)">Final feasibility decision</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(478.8 461.238281)">NO-GO / research STOP (B1)</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #243a43" transform="translate(478.8 476.063359)">Independent scientific MSC not established</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53646c" x="28.8" y="529.92" transform="rotate(-0 28.8 529.92)">Evidence map, not a timeline. Small-test PASS does not establish real-model completion, improvement or safety.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p537b282277">
+   <rect x="0" y="0" width="892.8" height="540"/>
+  </clipPath>
+ </defs>
+</svg>

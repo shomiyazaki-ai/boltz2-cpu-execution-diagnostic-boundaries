@@ -1,0 +1,14 @@
+{
+  "mode": "real",
+  "precision": "32-true",
+  "checkpoint": "[LOCAL_PATH_REDACTED]",
+  "processed": "[LOCAL_PATH_REDACTED]",
+  "mol_dir": "[LOCAL_PATH_REDACTED]",
+  "output": "[LOCAL_PATH_REDACTED]",
+  "sampling_steps": 200,
+  "recycling_steps": 3,
+  "diffusion_samples": 1,
+  "seed": 101,
+  "msa_cap": 4096,
+  "step_scale": 1.5
+}

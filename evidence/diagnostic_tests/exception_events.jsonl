@@ -1,0 +1,5 @@
+{"schema":"C01_3B_TRACE_v1","timestamp_utc":"2026-11-02T02:10:42.231752+00:00","monotonic_ns":135071593000000,"name":"TRACE_ATTACHED","phase":"info","seq":0,"memory_sample":"disabled","hook_handles":10}
+{"schema":"C01_3B_TRACE_v1","timestamp_utc":"2026-11-02T02:10:42.231752+00:00","monotonic_ns":135071593000000,"name":"predict_step","phase":"enter","seq":1,"memory_sample":"disabled"}
+{"schema":"C01_3B_TRACE_v1","timestamp_utc":"2026-11-02T02:10:42.231752+00:00","monotonic_ns":135071593000000,"name":"Boltz2.forward","phase":"enter","seq":2,"memory_sample":"disabled"}
+{"schema":"C01_3B_TRACE_v1","timestamp_utc":"2026-11-02T02:10:42.232595+00:00","monotonic_ns":135071593000000,"name":"predict_step","phase":"exception","seq":3,"memory_sample":"disabled","exception_type":"ValueError"}
+{"schema":"C01_3B_TRACE_v1","timestamp_utc":"2026-11-02T02:10:42.232595+00:00","monotonic_ns":135071593000000,"name":"TRACE_INCOMPLETE","phase":"info","seq":4,"memory_sample":"disabled","overflow":false,"events":4}

@@ -1,0 +1,39 @@
+{
+  "operating_system": "Windows 11 (user-confirmed; build not recorded)",
+  "compute": "CPU-only",
+  "installed_ram": "approximately 16 GiB (user-confirmed)",
+  "cpu_model": "NOT_RECORDED",
+  "boltz_version": "2.2.1",
+  "precision": "FP32 (32-true)",
+  "seed": 101,
+  "threads": 4,
+  "recycling_steps": 3,
+  "sampling_steps": 200,
+  "diffusion_samples": 1,
+  "step_scale": 1.5,
+  "target": {
+    "chain_A": "MPC2 / O95563",
+    "chain_B": "MPC1L / P0DKB6"
+  },
+  "original_msa_rows": {
+    "A": 8116,
+    "B": 7149
+  },
+  "per_chain_preprocessing_cap": 4096,
+  "combined_prediction_dataset_msa_shape": [
+    6634,
+    263
+  ],
+  "fully_paired_rows": 2539,
+  "checkpoint_sha256": "090e82ac8c92f5e943fa1b39e7410a44027bea7243c0bbb3caa67a77fc1428e1",
+  "source_blobs_git_sha1": {
+    "trunkv2.py": "ebd7a2ec6160307076b226b0d7d3ef1bfb376c29",
+    "transition.py": "8bab809375efe56fb8397af341db5af7cc39a071",
+    "outer_product_mean.py": "9a4a607d0f2da30539eb8a9bcf3a6d5b3f90f9db"
+  },
+  "runtime_observation": {
+    "python": "3.10.11 (Step 4 report)",
+    "torch": "2.14.1+cpu (Step 4 report)"
+  },
+  "limits": "No checkpoint, MSA sequence data, NPZ, pickle, or launcher is redistributed. Runtime observations are historical records, not a recommended installation."
+}

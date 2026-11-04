@@ -1,0 +1,7 @@
+{
+  "type": "MODEL_LOAD_ONLY",
+  "checkpoint_sha256": "090e82ac8c92f5e943fa1b39e7410a44027bea7243c0bbb3caa67a77fc1428e1",
+  "status": "LOAD_ONLY_PASS",
+  "prediction_performed": false,
+  "child_success_sentinel": true
+}

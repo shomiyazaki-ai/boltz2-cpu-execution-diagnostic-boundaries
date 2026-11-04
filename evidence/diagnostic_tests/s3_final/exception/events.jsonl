@@ -1,0 +1,3 @@
+{"event":"WORKER_START","mode":"exception","monotonic_ns":137732406000000}
+{"event":"INJECTED_EXCEPTION","monotonic_ns":137732406000000}
+{"event":"WORKER_EXCEPTION","exception":"RuntimeError","monotonic_ns":137732421000000}

@@ -1,0 +1,24 @@
+{
+  "kind": "Evidence map, not chronological experiment chain",
+  "real_inference": {
+    "standard": "MEMORY_STOP",
+    "official_chunking": "MEMORY_STOP",
+    "final_structure": "Not produced",
+    "final_confidence": "Not produced"
+  },
+  "isolated_tests": {
+    "step3_cases": 16,
+    "step4_numeric_checks": 6,
+    "step4_branch_probes": 3,
+    "scope": "test-only; no checkpoint"
+  },
+  "synthetic_diagnostics": "Limited synthetic event contract checks",
+  "windows_small_workers": {
+    "source_version": "S3 v1.2",
+    "cap_bytes": 100663296,
+    "scope": "small workers only"
+  },
+  "real_model_stage_diagnostics": "NOT RUN",
+  "final_decision": "NO-GO / research STOP",
+  "independent_scientific_MSC": "NOT ESTABLISHED"
+}

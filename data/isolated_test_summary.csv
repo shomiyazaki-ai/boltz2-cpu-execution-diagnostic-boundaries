@@ -1,0 +1,23 @@
+test_level,case,operator,mode,sequence_rows,tokens,recorded_status,rss_end_mib,elapsed_s,zero_output_check,allclose_1e-5,max_abs,evidence_path
+Step 3 isolated operator,01_transition_standard_128x64.result,transition,standard,128,64,COMPLETE,259.59,0.0576,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/01_transition_standard_128x64.result.json
+Step 3 isolated operator,02_transition_chunk_128x64.result,transition,chunk,128,64,COMPLETE,246.645,0.0254,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/02_transition_chunk_128x64.result.json
+Step 3 isolated operator,03_opm_standard_128x64.result,opm,standard,128,64,COMPLETE,277.391,0.0329,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/03_opm_standard_128x64.result.json
+Step 3 isolated operator,04_opm_chunk_128x64.result,opm,chunk,128,64,COMPLETE,245.695,0.0175,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/04_opm_chunk_128x64.result.json
+Step 3 isolated operator,05_transition_standard_512x128.result,transition,standard,512,128,COMPLETE,456.848,0.0904,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/05_transition_standard_512x128.result.json
+Step 3 isolated operator,06_transition_chunk_512x128.result,transition,chunk,512,128,COMPLETE,368.852,0.1191,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/06_transition_chunk_512x128.result.json
+Step 3 isolated operator,07_opm_standard_512x128.result,opm,standard,512,128,COMPLETE,446.684,0.1544,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/07_opm_standard_512x128.result.json
+Step 3 isolated operator,08_opm_chunk_512x128.result,opm,chunk,512,128,COMPLETE,300.75,0.1795,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/08_opm_chunk_512x128.result.json
+Step 3 isolated operator,09_transition_standard_1536x263.result,transition,standard,1536,263,COMPLETE,1612.859,0.465,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/09_transition_standard_1536x263.result.json
+Step 3 isolated operator,10_transition_chunk_1536x263.result,transition,chunk,1536,263,COMPLETE,675.195,0.7341,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/10_transition_chunk_1536x263.result.json
+Step 3 isolated operator,11_opm_standard_1536x263.result,opm,standard,1536,263,COMPLETE,983.922,1.1652,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/11_opm_standard_1536x263.result.json
+Step 3 isolated operator,12_opm_chunk_1536x263.result,opm,chunk,1536,263,COMPLETE,677.641,1.4039,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/12_opm_chunk_1536x263.result.json
+Step 3 isolated operator,13_transition_chunk_3072x263.result,transition,chunk,3072,263,COMPLETE,1470.613,1.5506,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/13_transition_chunk_3072x263.result.json
+Step 3 isolated operator,14_opm_chunk_3072x263.result,opm,chunk,3072,263,COMPLETE,980.383,2.476,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/14_opm_chunk_3072x263.result.json
+Step 3 isolated operator,15_transition_chunk_6634x263.result,transition,chunk,6634,263,COMPLETE,2159.402,3.4546,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/15_transition_chunk_6634x263.result.json
+Step 3 isolated operator,16_opm_chunk_6634x263.result,opm,chunk,6634,263,COMPLETE,1699.418,4.5382,0.0,NOT_TESTED,NOT_TESTED,evidence/isolated_operator_tests/step3/16_opm_chunk_6634x263.result.json
+Step 4 test-only weights,1,transition,standard versus chunking,32,32,PASS,NOT_RECORDED,NOT_RECORDED,NOT_APPLICABLE,True,5.960464477539062e-07,evidence/isolated_operator_tests/step4_results.json
+Step 4 test-only weights,2,transition,standard versus chunking,96,64,PASS,NOT_RECORDED,NOT_RECORDED,NOT_APPLICABLE,True,7.152557373046875e-07,evidence/isolated_operator_tests/step4_results.json
+Step 4 test-only weights,3,transition,standard versus chunking,128,263,PASS,NOT_RECORDED,NOT_RECORDED,NOT_APPLICABLE,True,7.152557373046875e-07,evidence/isolated_operator_tests/step4_results.json
+Step 4 test-only weights,4,opm,standard versus chunking,16,24,PASS,NOT_RECORDED,NOT_RECORDED,NOT_APPLICABLE,True,9.685754776000977e-08,evidence/isolated_operator_tests/step4_results.json
+Step 4 test-only weights,5,opm,standard versus chunking,32,48,PASS,NOT_RECORDED,NOT_RECORDED,NOT_APPLICABLE,True,1.043081283569336e-07,evidence/isolated_operator_tests/step4_results.json
+Step 4 test-only weights,6,opm,standard versus chunking,64,96,PASS,NOT_RECORDED,NOT_RECORDED,NOT_APPLICABLE,True,8.940696716308594e-08,evidence/isolated_operator_tests/step4_results.json

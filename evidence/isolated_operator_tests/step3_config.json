@@ -1,0 +1,111 @@
+{
+  "version": "C01_STEP3_v1",
+  "cases": [
+    [
+      "transition",
+      "standard",
+      128,
+      64
+    ],
+    [
+      "transition",
+      "chunk",
+      128,
+      64
+    ],
+    [
+      "opm",
+      "standard",
+      128,
+      64
+    ],
+    [
+      "opm",
+      "chunk",
+      128,
+      64
+    ],
+    [
+      "transition",
+      "standard",
+      512,
+      128
+    ],
+    [
+      "transition",
+      "chunk",
+      512,
+      128
+    ],
+    [
+      "opm",
+      "standard",
+      512,
+      128
+    ],
+    [
+      "opm",
+      "chunk",
+      512,
+      128
+    ],
+    [
+      "transition",
+      "standard",
+      1536,
+      263
+    ],
+    [
+      "transition",
+      "chunk",
+      1536,
+      263
+    ],
+    [
+      "opm",
+      "standard",
+      1536,
+      263
+    ],
+    [
+      "opm",
+      "chunk",
+      1536,
+      263
+    ],
+    [
+      "transition",
+      "chunk",
+      3072,
+      263
+    ],
+    [
+      "opm",
+      "chunk",
+      3072,
+      263
+    ],
+    [
+      "transition",
+      "chunk",
+      6634,
+      263
+    ],
+    [
+      "opm",
+      "chunk",
+      6634,
+      263
+    ]
+  ],
+  "preflight": {
+    "available_gib": 10.203125,
+    "commit_headroom_gib": 11.009880065917969,
+    "commit_limit_gib": 16.749290466308594
+  },
+  "no_checkpoint": true,
+  "no_inference": true,
+  "baseline_full_shape_prohibited": true,
+  "stop_policy": "minimum available or commit headroom <4 GiB, start case requires >=8 GiB, hard duration 180 s per case",
+  "checkpoint_loaded": false
+}

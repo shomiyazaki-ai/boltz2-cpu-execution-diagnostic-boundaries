@@ -1,0 +1,6 @@
+test,recorded_pass,last_event,worker_exitcode,controller_exitcode,cap_bytes,peak_job_memory_used_bytes,scope,evidence_path
+Final S3 v1.2 normal,True,NORMAL_COMPLETE,0,0,100663296,13721600,historical small worker; not real Boltz,evidence/diagnostic_tests/s3_final_summary.json
+Final S3 v1.2 overlimit,True,MEMORY_ERROR_OBSERVED,42,0,100663296,101978112,historical small worker; not real Boltz,evidence/diagnostic_tests/s3_final_summary.json
+Final S3 v1.2 parent_kill,True,NO_TERMINAL_EVENT_EXPECTED,NOT_APPLICABLE,1,100663296,NOT_RECORDED,historical small worker; not real Boltz,evidence/diagnostic_tests/s3_final_summary.json
+Final S3 v1.2 exception,True,WORKER_EXCEPTION,1,0,100663296,9367552,historical small worker; not real Boltz,evidence/diagnostic_tests/s3_final_summary.json
+Final S3 v1.2 unlimited,True,NORMAL_COMPLETE,0,0,,13766656,historical small worker; not real Boltz,evidence/diagnostic_tests/s3_final_summary.json

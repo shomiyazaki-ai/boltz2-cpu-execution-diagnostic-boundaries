@@ -1,0 +1,45 @@
+{
+  "version": "C01_REAL_SUPERVISOR_v1",
+  "utc": "2026-11-01T10:16:48.511436+00:00",
+  "reason": "MEMORY_STOP",
+  "stage": "PREDICT",
+  "approved_gate_b": true,
+  "gate_b": {
+    "available_gib": 5.84011,
+    "commit_headroom_gib": 5.39557
+  },
+  "initial": {
+    "available_gib": 10.22903,
+    "commit_headroom_gib": 11.03992
+  },
+  "returncode": 15,
+  "observed_worker_pid": true,
+  "monitor_samples": 271,
+  "events": [
+    {
+      "event": "INPUT_INTEGRITY_PASS",
+      "file_count": 6
+    },
+    {
+      "event": "MODEL_LOADED_WAITING_FOR_GATE_B",
+      "precision": "32-true",
+      "prediction_performed": false
+    },
+    {
+      "event": "GATE_B_APPROVED"
+    },
+    {
+      "event": "INFERENCE_START",
+      "precision": "32-true",
+      "recycling_steps": 3,
+      "sampling_steps": 200,
+      "seed": 101
+    }
+  ],
+  "output_qc_status": "NOT_RUN",
+  "prediction_success": false,
+  "memory_guard_os_hard_limit": false,
+  "job_object_kill_on_close": true,
+  "partial_results_not_success": true,
+  "event_protocol_validation": "VALID"
+}

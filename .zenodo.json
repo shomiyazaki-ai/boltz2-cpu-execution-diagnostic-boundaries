@@ -1,0 +1,31 @@
+{
+  "title": "Boltz-2 CPU Execution and Diagnostic Boundaries: A Windows 11 Technical Record",
+  "upload_type": "other",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "Miyazaki, Sho",
+      "affiliation": "Independent researcher, Tokyo, Japan"
+    }
+  ],
+  "description": "A bounded Technical Record of two fixed Boltz-2 v2.2.1 CPU inference attempts on a personal Windows 11 computer with approximately 16 GiB RAM. Both the standard attempt and the chunking-enabled attempt ended MEMORY_STOP, without a successful final structure or confidence output. The archive provides the English README, two figures, three main tables, curated historical logs, provenance, corrections and offline read-only verification code. Isolated operator and test-only numerical checks, synthetic traces and a 96 MiB Windows small-worker regression provide limited evidence only. Real-model stage diagnostics were not run; the final feasibility decision was NO-GO / research STOP. Successful inference, end-to-end memory reduction, full-model numerical equivalence, real-model safety and independent scientific MSC are not established. Original prose/figures/data curation are CC BY 4.0; original verification/figure code is MIT; see LICENSE_SCOPE.md. No specific funding was received for this independent study. The author declares no competing interests. Personal resources only; no institutional research resources or funding. AI assistance and author responsibility are disclosed in docs/AI_DISCLOSURE.md.",
+  "keywords": [
+    "Boltz-2",
+    "CPU-only inference",
+    "memory monitoring",
+    "Windows Job Objects",
+    "diagnostic instrumentation",
+    "failure analysis",
+    "reproducibility"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23910491",
+      "scheme": "doi",
+      "relation": "references"
+    }
+  ],
+  "notes": "UNPUBLISHED CANDIDATE. Direct Zenodo deposit only after author approval: Other (Technical Record). Mixed scoped licenses: CC BY 4.0 for author prose/figures/data curation, MIT for author Python code; see LICENSE_SCOPE.md and docs/ZENODO_DEPOSIT_METADATA.json. A single legacy .zenodo.json license value cannot represent file-specific scopes. Do NOT use this file to auto-publish or infer that all files are CC BY 4.0. Confirm both licenses in the actual Zenodo draft UI at publication. Zenodo DOI 10.5281/zenodo.23934898 has been reserved by the author in an UNPUBLISHED draft; publication date, GitHub repository URL and release commit/tag remain PENDING. Zenodo draft UI was reported to show Other and both CC BY 4.0 and MIT licenses. File upload and saved draft validation have not yet been confirmed."
+}

@@ -1,0 +1,12 @@
+{
+  "case": "normal",
+  "cap_bytes": 100663296,
+  "readback": {
+    "kill_on_close": true,
+    "job_memory_enabled": true,
+    "job_memory_limit_bytes": 100663296,
+    "peak_job_memory_used_bytes": 495616
+  },
+  "membership_confirmed": true,
+  "assignment_before_resume": true
+}

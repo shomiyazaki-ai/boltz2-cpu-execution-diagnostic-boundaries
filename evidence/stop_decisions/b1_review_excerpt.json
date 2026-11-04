@@ -1,0 +1,32 @@
+{
+  "lines": [
+    {
+      "line": 1,
+      "text": "# C01 B1 — Production Job Memory Limit / Diagnostic Execution Design (Internal)"
+    },
+    {
+      "line": 2,
+      "text": ""
+    },
+    {
+      "line": 3,
+      "text": "## Scope and decision"
+    },
+    {
+      "line": 4,
+      "text": "Read-only design review. No model load, prediction, Windows configuration change, or code modification performed. **B1: NO-GO to B2 under the previously agreed STOP-at-B1 rule.** The engineering integration is possible, but there is no evidence-qualified operating window in which a job-wide cap both preserves robust OS commit headroom and allows progress into the model stage whose memory allocation caused the previous stops. This is a decision about proceeding with this PC and current evidence, not proof that no theoretical limit exists."
+    },
+    {
+      "line": 44,
+      "text": "## Final B1 determination"
+    },
+    {
+      "line": 45,
+      "text": ""
+    },
+    {
+      "line": 46,
+      "text": "**NO-GO to B2 at this time.** The design issues are fixable in principle but the available evidence does not justify meaningful and safe post-checkpoint diagnostic reachability in the current 16 GiB machine. The STOP rule was agreed in advance. Retain S1–S4 and both failed runs. Do not execute more inference or publish a Technical Record automatically; MSC/minimum-claim and output venue are separate later Work decisions."
+    }
+  ]
+}

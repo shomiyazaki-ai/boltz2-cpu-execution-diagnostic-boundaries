@@ -1,0 +1,32 @@
+{
+  "status": "COMPLETE",
+  "operator": "transition",
+  "mode": "standard",
+  "seqs": 512,
+  "tokens": 128,
+  "elapsed_s": 0.0904,
+  "check": 0.0,
+  "rss_end_mib": 456.848,
+  "upstream": {
+    "transition.py": {
+      "path": "[LOCAL_PATH_REDACTED]",
+      "expected": "8bab809375efe56fb8397af341db5af7cc39a071",
+      "actual": "8bab809375efe56fb8397af341db5af7cc39a071",
+      "match": true
+    },
+    "outer_product_mean.py": {
+      "path": "[LOCAL_PATH_REDACTED]",
+      "expected": "9a4a607d0f2da30539eb8a9bcf3a6d5b3f90f9db",
+      "actual": "9a4a607d0f2da30539eb8a9bcf3a6d5b3f90f9db",
+      "match": true
+    },
+    "trunkv2.py": {
+      "path": "[LOCAL_PATH_REDACTED]",
+      "expected": "ebd7a2ec6160307076b226b0d7d3ef1bfb376c29",
+      "actual": "ebd7a2ec6160307076b226b0d7d3ef1bfb376c29",
+      "match": true
+    }
+  },
+  "checkpoint_loaded": false,
+  "predict_called": false
+}

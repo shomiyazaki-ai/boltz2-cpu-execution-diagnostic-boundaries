@@ -1,0 +1,216 @@
+{
+  "version": "C01_STEP4_OFFICIAL_NUMERIC_v1",
+  "python": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+  "torch_version": "2.14.1+cpu",
+  "checkpoint_loaded": false,
+  "prediction_performed": false,
+  "science_settings_changed": false,
+  "source": {
+    "transition.py": {
+      "path": "[LOCAL_PATH_REDACTED]",
+      "actual": "8bab809375efe56fb8397af341db5af7cc39a071",
+      "expected": "8bab809375efe56fb8397af341db5af7cc39a071",
+      "match": true
+    },
+    "outer_product_mean.py": {
+      "path": "[LOCAL_PATH_REDACTED]",
+      "actual": "9a4a607d0f2da30539eb8a9bcf3a6d5b3f90f9db",
+      "expected": "9a4a607d0f2da30539eb8a9bcf3a6d5b3f90f9db",
+      "match": true
+    },
+    "trunkv2.py": {
+      "path": "[LOCAL_PATH_REDACTED]",
+      "actual": "ebd7a2ec6160307076b226b0d7d3ef1bfb376c29",
+      "expected": "ebd7a2ec6160307076b226b0d7d3ef1bfb376c29",
+      "match": true
+    }
+  },
+  "numerics": [
+    {
+      "operator": "transition",
+      "S": 32,
+      "N": 32,
+      "shape_equal": true,
+      "shape": [
+        1,
+        32,
+        32,
+        64
+      ],
+      "max_abs": 5.960464477539062e-07,
+      "rmse": 5.833316583920894e-08,
+      "max_relative_where_above_1e-6": 0.003942217145647321,
+      "finite": true,
+      "allclose_1e-5": true,
+      "rng_std_unchanged": true,
+      "rng_chunk_unchanged": true
+    },
+    {
+      "operator": "transition",
+      "S": 96,
+      "N": 64,
+      "shape_equal": true,
+      "shape": [
+        1,
+        96,
+        64,
+        64
+      ],
+      "max_abs": 7.152557373046875e-07,
+      "rmse": 5.7454172771751486e-08,
+      "max_relative_where_above_1e-6": 0.016532941931733745,
+      "finite": true,
+      "allclose_1e-5": true,
+      "rng_std_unchanged": true,
+      "rng_chunk_unchanged": true
+    },
+    {
+      "operator": "transition",
+      "S": 128,
+      "N": 263,
+      "shape_equal": true,
+      "shape": [
+        1,
+        128,
+        263,
+        64
+      ],
+      "max_abs": 7.152557373046875e-07,
+      "rmse": 5.765565644803847e-08,
+      "max_relative_where_above_1e-6": 0.04084838143450469,
+      "finite": true,
+      "allclose_1e-5": true,
+      "rng_std_unchanged": true,
+      "rng_chunk_unchanged": true
+    },
+    {
+      "operator": "opm",
+      "S": 16,
+      "N": 24,
+      "shape_equal": true,
+      "shape": [
+        1,
+        24,
+        24,
+        128
+      ],
+      "max_abs": 9.685754776000977e-08,
+      "rmse": 1.4936881901785337e-08,
+      "max_relative_where_above_1e-6": 0.006638115631691649,
+      "finite": true,
+      "allclose_1e-5": true,
+      "rng_std_unchanged": true,
+      "rng_chunk_unchanged": true
+    },
+    {
+      "operator": "opm",
+      "S": 32,
+      "N": 48,
+      "shape_equal": true,
+      "shape": [
+        1,
+        48,
+        48,
+        128
+      ],
+      "max_abs": 1.043081283569336e-07,
+      "rmse": 1.3483723551294854e-08,
+      "max_relative_where_above_1e-6": 0.008346581875993641,
+      "finite": true,
+      "allclose_1e-5": true,
+      "rng_std_unchanged": true,
+      "rng_chunk_unchanged": true
+    },
+    {
+      "operator": "opm",
+      "S": 64,
+      "N": 96,
+      "shape_equal": true,
+      "shape": [
+        1,
+        96,
+        96,
+        128
+      ],
+      "max_abs": 8.940696716308594e-08,
+      "rmse": 9.26429262951626e-09,
+      "max_relative_where_above_1e-6": 0.017056222362602652,
+      "finite": true,
+      "allclose_1e-5": true,
+      "rng_std_unchanged": true,
+      "rng_chunk_unchanged": true
+    }
+  ],
+  "patch_integration": {
+    "applied": {
+      "status": "APPLIED_IN_MEMORY",
+      "upstream_git_blob_sha1": "ebd7a2ec6160307076b226b0d7d3ef1bfb376c29",
+      "target": "boltz.model.modules.trunkv2.MSAModule.forward",
+      "token_count_only": 263,
+      "transition_hidden_chunk": 32,
+      "outer_product_projected_chunk": 4,
+      "checkpoint_loaded": false,
+      "prediction_performed": false
+    },
+    "probes": [
+      {
+        "token_count": 64,
+        "capture": {
+          "chunk_heads_pwa": false,
+          "chunk_transition_z": null,
+          "chunk_transition_msa": null,
+          "chunk_outer_product": null,
+          "chunk_triangle_attn": 512,
+          "use_kernels": false
+        },
+        "pass": true
+      },
+      {
+        "token_count": 263,
+        "capture": {
+          "chunk_heads_pwa": false,
+          "chunk_transition_z": null,
+          "chunk_transition_msa": 32,
+          "chunk_outer_product": 4,
+          "chunk_triangle_attn": 512,
+          "use_kernels": false
+        },
+        "pass": true
+      },
+      {
+        "token_count": 385,
+        "capture": {
+          "chunk_heads_pwa": true,
+          "chunk_transition_z": 64,
+          "chunk_transition_msa": 32,
+          "chunk_outer_product": 4,
+          "chunk_triangle_attn": 128,
+          "use_kernels": false
+        },
+        "pass": true
+      }
+    ],
+    "all_pass": true
+  },
+  "source_after": {
+    "transition.py": {
+      "path": "[LOCAL_PATH_REDACTED]",
+      "actual": "8bab809375efe56fb8397af341db5af7cc39a071",
+      "expected": "8bab809375efe56fb8397af341db5af7cc39a071",
+      "match": true
+    },
+    "outer_product_mean.py": {
+      "path": "[LOCAL_PATH_REDACTED]",
+      "actual": "9a4a607d0f2da30539eb8a9bcf3a6d5b3f90f9db",
+      "expected": "9a4a607d0f2da30539eb8a9bcf3a6d5b3f90f9db",
+      "match": true
+    },
+    "trunkv2.py": {
+      "path": "[LOCAL_PATH_REDACTED]",
+      "actual": "ebd7a2ec6160307076b226b0d7d3ef1bfb376c29",
+      "expected": "ebd7a2ec6160307076b226b0d7d3ef1bfb376c29",
+      "match": true
+    }
+  },
+  "all_pass": true
+}

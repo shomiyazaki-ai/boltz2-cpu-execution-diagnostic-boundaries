@@ -1,0 +1,48 @@
+{
+  "schema": "C01_CD_PUBLIC_VERIFY_v1",
+  "version": "1.0.0",
+  "executions": [
+    {
+      "execution": "standard",
+      "monitor_samples": 271,
+      "gate_b_commit_headroom_gib": 5.39557,
+      "terminal_commit_headroom_gib": 0.4569,
+      "terminal_available_ram_gib": 2.22477,
+      "terminal_process_tree_rss_mib": 8515.27,
+      "terminal_private_bytes_mib": 10881.168,
+      "last_sample_elapsed_s": 46.75,
+      "outcome": "MEMORY_STOP",
+      "final_structure": "Not produced (saved-record assessment)",
+      "final_confidence": "Not produced (saved-record assessment)",
+      "output_qc_status": "NOT_RUN",
+      "terminal_report_utc": "2026-11-01T10:16:48.511436+00:00",
+      "stop_event_elapsed_s": "NOT_RECORDED"
+    },
+    {
+      "execution": "chunking",
+      "monitor_samples": 305,
+      "gate_b_commit_headroom_gib": 5.25733,
+      "terminal_commit_headroom_gib": 0.3876,
+      "terminal_available_ram_gib": 1.87646,
+      "terminal_process_tree_rss_mib": 8678.559,
+      "terminal_private_bytes_mib": 10875.98,
+      "last_sample_elapsed_s": 53.0,
+      "outcome": "MEMORY_STOP",
+      "final_structure": "Not produced (saved-record assessment)",
+      "final_confidence": "Not produced (saved-record assessment)",
+      "output_qc_status": "NOT_RUN",
+      "terminal_report_utc": "2026-11-02T01:15:38.708419+00:00",
+      "stop_event_elapsed_s": "NOT_RECORDED"
+    }
+  ],
+  "step3_cases": 16,
+  "step4_numeric_cases": 6,
+  "step4_branch_probes": 3,
+  "synthetic_events": 26,
+  "s3_cap_bytes": 100663296,
+  "s3_overlimit_peak_job_memory_used_bytes": 101978112,
+  "b1_decision": "NO_GO_TO_B2_UNDER_FIXED_STOP_RULE",
+  "real_model_stage_diagnostics": "NOT RUN",
+  "independent_scientific_MSC": "NOT ESTABLISHED",
+  "historical_windows_reexecution": "NOT RUN"
+}

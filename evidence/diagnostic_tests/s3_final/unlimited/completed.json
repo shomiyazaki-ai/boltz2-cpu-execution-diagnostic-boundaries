@@ -1,0 +1,10 @@
+{
+  "case": "unlimited",
+  "worker_exitcode": 0,
+  "readback_after": {
+    "kill_on_close": true,
+    "job_memory_enabled": false,
+    "job_memory_limit_bytes": null,
+    "peak_job_memory_used_bytes": 13766656
+  }
+}

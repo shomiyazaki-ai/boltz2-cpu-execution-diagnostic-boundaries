@@ -1,0 +1,36 @@
+{
+  "lines": [
+    {
+      "line": 1,
+      "text": "# C01 S1 — Read-only Job-wide commit limit feasibility gate"
+    },
+    {
+      "line": 2,
+      "text": "Date: 2026-11-02. Scope: design and evidence audit ONLY; no actual Windows changes or inference."
+    },
+    {
+      "line": 3,
+      "text": ""
+    },
+    {
+      "line": 4,
+      "text": "## Decision"
+    },
+    {
+      "line": 5,
+      "text": "* Windows Job Object JOB_OBJECT_LIMIT_JOB_MEMORY is documented and technically applicable to the existing KillOnCloseJob structure, with a new bounded configuration and verification path: **FEASIBLE IN PRINCIPLE**."
+    },
+    {
+      "line": 6,
+      "text": "* S2 bounded mock implementation and S3 Windows tests: **CONDITIONAL GO**."
+    },
+    {
+      "line": 7,
+      "text": "* Real diagnostic ③-C on current 16-GiB RAM / 1-GiB pagefile: **NO-GO, pending distinct final gate**."
+    },
+    {
+      "line": 8,
+      "text": "* No specific safe GiB limit can be established from existing logs alone."
+    }
+  ]
+}
