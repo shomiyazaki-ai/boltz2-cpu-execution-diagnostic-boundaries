@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Unpublished v1.0.0 Technical Record candidate. Reserved Zenodo version DOI: 10.5281/zenodo.23934898 (unpublished draft); cite it as a published record only after publication is confirmed. File-scoped CC BY 4.0 / MIT terms are specified in LICENSE_SCOPE.md; the CFF license field is intentionally omitted to avoid an OR-license interpretation. No independent scientific MSC is claimed."
+message: "Unpublished v1.0.0 Technical Record candidate. Reserved Zenodo version DOI: 10.5281/zenodo.23934898 (draft preview verified, unpublished); cite it as a published record only after publication is confirmed. File-scoped CC BY 4.0 / MIT terms are specified in LICENSE_SCOPE.md; the CFF license field is intentionally omitted to avoid an OR-license interpretation. No independent scientific MSC is claimed."
 type: dataset
 title: "Boltz-2 CPU Execution and Diagnostic Boundaries: A Windows 11 Technical Record"
 version: "1.0.0"
